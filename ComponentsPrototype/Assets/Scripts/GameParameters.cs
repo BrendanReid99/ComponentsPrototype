@@ -8,4 +8,6 @@ public class GameParameters : ScriptableObject
     public bool enableDayNightCycle;            //enables option to turn on/off day night cycle
     public float lengthOfDayInSeconds;          //enables option to change length of game day
     public float timeOfDayRatio;                //enables option to choose which time of the day the game starts (day time, dawn, night time and so on...)
+
+    public bool enableSnow; //enables option to turn on/off snow
 }
