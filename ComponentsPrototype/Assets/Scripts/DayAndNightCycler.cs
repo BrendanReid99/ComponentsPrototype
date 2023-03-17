@@ -31,7 +31,7 @@ public class DayAndNightCycler : MonoBehaviour
 
     void Start()
     {
-        //set current time in relation to DAY/NIGHT Ratio
+        //set current time in game (360 minutes = 6am in game time i.e., 60 (00:00am) * 6 (hrs) = 360)
         currentTime = 360;
 
 
@@ -47,6 +47,12 @@ public class DayAndNightCycler : MonoBehaviour
 
         float hours = Mathf.FloorToInt(currentTime / 60);
         float minutes = Mathf.FloorToInt(currentTime % 60);
+
+        //resets clock to 00 hrs if greater than 24
+        if (hours >= 24) {
+            hours = 0;
+        }
+
         timeOfDay.text = string.Format("{0:00}:{1:00}", hours,  minutes); //converts text into hours and minutes format
 
     }
