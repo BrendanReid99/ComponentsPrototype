@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
@@ -6,7 +8,6 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-        // ...
-        GetComponent<DayNightCycle>().enabled = gameParameters.enableDayNightCycle;
+        GetComponent<DayAndNightCycler>().enabled = gameParameters.enableDayNightCycle;
     }
 }
