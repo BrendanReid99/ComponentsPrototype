@@ -32,7 +32,7 @@ public class DayAndNightCycler : MonoBehaviour
     void Start()
     {
         //set current time in game (360 minutes = 6am in game time i.e., 60 (00:00am) * 6 (hrs) = 360)
-        currentTime = 360;
+        currentTime = 1200;
 
 
         StartCoroutine("UpdateStars");
@@ -51,6 +51,7 @@ public class DayAndNightCycler : MonoBehaviour
         //resets clock to 00 hrs if greater than 24
         if (hours >= 24) {
             hours = 0;
+            currentTime = 0;
         }
 
         timeOfDay.text = string.Format("{0:00}:{1:00}", hours,  minutes); //converts text into hours and minutes format
