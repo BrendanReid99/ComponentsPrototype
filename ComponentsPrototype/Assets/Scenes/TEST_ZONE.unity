@@ -233,6 +233,7 @@ GameObject:
   - component: {fileID: 40911370}
   - component: {fileID: 39911626}
   - component: {fileID: 47377866}
+  - component: {fileID: 47377867}
   m_Layer: 0
   m_Name: fence_double (40)
   m_TagString: Untagged
@@ -325,6 +326,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &47377867
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 37985802}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7973716, y: 0.5945035, z: -0.00000010058285}
 --- !u!95 &52687895
 Animator:
   serializedVersion: 4
@@ -427,6 +441,7 @@ GameObject:
   - component: {fileID: 58809303}
   - component: {fileID: 59775255}
   - component: {fileID: 52687895}
+  - component: {fileID: 62200824}
   m_Layer: 0
   m_Name: fence_double (18)
   m_TagString: Untagged
@@ -449,6 +464,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 70
   m_LocalEulerAnglesHint: {x: -0.751, y: 154.69, z: 0.317}
+--- !u!65 &62200824
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 62031831}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052563, y: 1.1890091, z: 0.20418695}
+  m_Center: {x: -1.7973715, y: 0.59450454, z: -0.00000010002916}
 --- !u!1 &63167265
 GameObject:
   m_ObjectHideFlags: 0
@@ -461,6 +489,7 @@ GameObject:
   - component: {fileID: 66062113}
   - component: {fileID: 65095137}
   - component: {fileID: 55748833}
+  - component: {fileID: 66062114}
   m_Layer: 0
   m_Name: fence_double (31)
   m_TagString: Untagged
@@ -533,6 +562,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 63167265}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &66062114
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 63167265}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.000000100582874}
 --- !u!33 &71727991
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -610,6 +652,7 @@ GameObject:
   - component: {fileID: 71727991}
   - component: {fileID: 72825271}
   - component: {fileID: 82105527}
+  - component: {fileID: 82105528}
   m_Layer: 0
   m_Name: fence_double (3)
   m_TagString: Untagged
@@ -637,6 +680,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &82105528
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 74819447}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.1890091, z: 0.20418721}
+  m_Center: {x: -1.7973722, y: 0.59450454, z: 0.00003052302}
 --- !u!1 &105013653
 GameObject:
   m_ObjectHideFlags: 0
@@ -770,6 +826,7 @@ GameObject:
   - component: {fileID: 150022111}
   - component: {fileID: 148923679}
   - component: {fileID: 139692063}
+  - component: {fileID: 150022112}
   m_Layer: 0
   m_Name: fence_double (37)
   m_TagString: Untagged
@@ -842,6 +899,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 146996191}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &150022112
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146996191}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: -0.00000010058286}
 --- !u!1 &158388855
 GameObject:
   m_ObjectHideFlags: 0
@@ -1033,6 +1103,7 @@ GameObject:
   - component: {fileID: 164909390}
   - component: {fileID: 163910542}
   - component: {fileID: 158793358}
+  - component: {fileID: 166169935}
   m_Layer: 0
   m_Name: fence_double (39)
   m_TagString: Untagged
@@ -1040,6 +1111,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &166169935
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 166169934}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.000007729977}
 --- !u!95 &173507774
 Animator:
   serializedVersion: 4
@@ -1087,6 +1171,7 @@ GameObject:
   - component: {fileID: 183839614}
   - component: {fileID: 182741438}
   - component: {fileID: 173507774}
+  - component: {fileID: 183839615}
   m_Layer: 0
   m_Name: fence_double (7)
   m_TagString: Untagged
@@ -1094,6 +1179,24 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &181932569 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+  m_PrefabInstance: {fileID: 1867036402}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &181932574
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 181932569}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7973716, y: 0.5945045, z: -0.000000100582845}
 --- !u!23 &182741438
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1144,6 +1247,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 180811646}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &183839615
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 180811646}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.1890091, z: 0.20418708}
+  m_Center: {x: -1.7973416, y: 0.59450454, z: 0.00003037458}
 --- !u!4 &204626386 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c33cde148d22637438dc894462957486, type: 3}
@@ -1216,6 +1332,7 @@ GameObject:
   - component: {fileID: 232852434}
   - component: {fileID: 233851154}
   - component: {fileID: 222536722}
+  - component: {fileID: 233851155}
   m_Layer: 0
   m_Name: fence_double (14)
   m_TagString: Untagged
@@ -1386,6 +1503,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &233851155
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 231921618}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605256, y: 1.1890091, z: 0.2041869}
+  m_Center: {x: -1.7973714, y: 0.59450454, z: 0.000015159314}
 --- !u!23 &235255895
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1463,6 +1593,7 @@ GameObject:
   - component: {fileID: 236255895}
   - component: {fileID: 235255895}
   - component: {fileID: 246830423}
+  - component: {fileID: 246830424}
   m_Layer: 0
   m_Name: fence_double (24)
   m_TagString: Untagged
@@ -1490,6 +1621,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &246830424
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 237446807}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.1890091, z: 0.20418711}
+  m_Center: {x: -1.7973112, y: 0.59450454, z: -0.000030579093}
 --- !u!4 &257872818 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 1ed77f927a5dcfa499e4902d8e3165cc, type: 3}
@@ -1547,6 +1691,7 @@ GameObject:
   - component: {fileID: 329573291}
   - component: {fileID: 330670443}
   - component: {fileID: 319179883}
+  - component: {fileID: 330670444}
   m_Layer: 0
   m_Name: fence_double (32)
   m_TagString: Untagged
@@ -1604,6 +1749,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &330670444
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328679339}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973416, y: 0.5945035, z: 0.000060934573}
 --- !u!1 &340172556
 GameObject:
   m_ObjectHideFlags: 0
@@ -3011,6 +3169,7 @@ GameObject:
   - component: {fileID: 373426386}
   - component: {fileID: 374557202}
   - component: {fileID: 383821586}
+  - component: {fileID: 383821587}
   m_Layer: 0
   m_Name: fence_double (15)
   m_TagString: Untagged
@@ -3053,6 +3212,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &383821587
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 376558802}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052563, y: 1.1890091, z: 0.20418695}
+  m_Center: {x: -1.7973715, y: 0.59450454, z: -0.000015358819}
 --- !u!95 &406925981
 Animator:
   serializedVersion: 4
@@ -3085,6 +3257,7 @@ GameObject:
   - component: {fileID: 417570141}
   - component: {fileID: 418570141}
   - component: {fileID: 406925981}
+  - component: {fileID: 418570142}
   m_Layer: 0
   m_Name: fence_double (25)
   m_TagString: Untagged
@@ -3255,6 +3428,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &418570142
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 416301405}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.00000010058286}
 --- !u!4 &422129760 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 9212558344819701040, guid: 5fc6ae82cfb35134c8e1ca3555082ba4, type: 3}
@@ -3433,6 +3619,7 @@ GameObject:
   - component: {fileID: 442824997}
   - component: {fileID: 443923429}
   - component: {fileID: 449205989}
+  - component: {fileID: 449205990}
   m_Layer: 0
   m_Name: fence_double (36)
   m_TagString: Untagged
@@ -3510,6 +3697,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &449205990
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 441918757}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: -0.00003061816}
 --- !u!1 &450483477
 GameObject:
   m_ObjectHideFlags: 0
@@ -3635,6 +3835,7 @@ GameObject:
   - component: {fileID: 460590303}
   - component: {fileID: 459623967}
   - component: {fileID: 467051295}
+  - component: {fileID: 467051296}
   m_Layer: 0
   m_Name: fence_double (1)
   m_TagString: Untagged
@@ -3815,6 +4016,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &467051296
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 457691359}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.00000010058286}
 --- !u!1 &472605484
 GameObject:
   m_ObjectHideFlags: 0
@@ -3925,6 +4139,7 @@ GameObject:
   - component: {fileID: 556985435}
   - component: {fileID: 555986587}
   - component: {fileID: 563102619}
+  - component: {fileID: 563102620}
   m_Layer: 0
   m_Name: fence_double (2)
   m_TagString: Untagged
@@ -4116,6 +4331,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &563102620
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 553726043}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.1890091, z: 0.20418702}
+  m_Center: {x: -1.7973719, y: 0.59450454, z: 0.000015157652}
 --- !u!95 &563244364
 Animator:
   serializedVersion: 4
@@ -4338,6 +4566,7 @@ GameObject:
   - component: {fileID: 602155258}
   - component: {fileID: 603286074}
   - component: {fileID: 591824698}
+  - component: {fileID: 603286075}
   m_Layer: 0
   m_Name: fence_double (35)
   m_TagString: Untagged
@@ -4395,6 +4624,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &603286075
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 601355514}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: -0.00000010058286}
 --- !u!1 &610795099
 GameObject:
   m_ObjectHideFlags: 0
@@ -4540,6 +4782,7 @@ GameObject:
   - component: {fileID: 635957961}
   - component: {fileID: 636923913}
   - component: {fileID: 625302793}
+  - component: {fileID: 636923914}
   m_Layer: 0
   m_Name: fence_double (13)
   m_TagString: Untagged
@@ -4597,6 +4840,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &636923914
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 634662601}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052587, y: 1.1890091, z: 0.2041873}
+  m_Center: {x: -1.7974337, y: 0.59450454, z: -0.00000020826829}
 --- !u!33 &655253152
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -4674,6 +4930,7 @@ GameObject:
   - component: {fileID: 655253152}
   - component: {fileID: 656350304}
   - component: {fileID: 665645408}
+  - component: {fileID: 665645409}
   m_Layer: 0
   m_Name: fence_double (9)
   m_TagString: Untagged
@@ -4701,6 +4958,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &665645409
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 658342560}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.1890091, z: 0.20418718}
+  m_Center: {x: -1.7974939, y: 0.5945026, z: 0.000000006548845}
 --- !u!4 &671101953
 Transform:
   m_ObjectHideFlags: 0
@@ -6105,6 +6375,7 @@ GameObject:
   - component: {fileID: 740857680}
   - component: {fileID: 741987728}
   - component: {fileID: 747255952}
+  - component: {fileID: 747255953}
   m_Layer: 0
   m_Name: fence_double (12)
   m_TagString: Untagged
@@ -6332,6 +6603,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &747255953
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 739986256}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.1890091, z: 0.2041871}
+  m_Center: {x: -1.7973722, y: 0.59450454, z: 0.000020933265}
 --- !u!95 &791843357
 Animator:
   serializedVersion: 4
@@ -6364,6 +6648,7 @@ GameObject:
   - component: {fileID: 796564776}
   - component: {fileID: 795598824}
   - component: {fileID: 802697960}
+  - component: {fileID: 802697961}
   m_Layer: 0
   m_Name: fence_double (34)
   m_TagString: Untagged
@@ -6498,6 +6783,7 @@ GameObject:
   - component: {fileID: 797982173}
   - component: {fileID: 797015837}
   - component: {fileID: 791843357}
+  - component: {fileID: 799309310}
   m_Layer: 0
   m_Name: fence_double (10)
   m_TagString: Untagged
@@ -6520,6 +6806,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 62
   m_LocalEulerAnglesHint: {x: -0.575, y: 132.462, z: 0.577}
+--- !u!65 &799309310
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 799269341}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052582, y: 1.1890091, z: 0.20418702}
+  m_Center: {x: -1.7974335, y: 0.59450644, z: -0.000007729977}
 --- !u!95 &802697960
 Animator:
   serializedVersion: 4
@@ -6540,6 +6839,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &802697961
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 793329960}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.00003061816}
 --- !u!1 &813628605
 GameObject:
   m_ObjectHideFlags: 0
@@ -6752,6 +7064,7 @@ GameObject:
   - component: {fileID: 901690777}
   - component: {fileID: 900724569}
   - component: {fileID: 891034201}
+  - component: {fileID: 901690778}
   m_Layer: 0
   m_Name: fence_double (4)
   m_TagString: Untagged
@@ -6809,6 +7122,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 898460057}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &901690778
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 898460057}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052582, y: 1.1890091, z: 0.20418712}
+  m_Center: {x: -1.7973725, y: 0.5945026, z: -0.0000001496935}
 --- !u!4 &910537557 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b2e9ef0f0b3b76049b8c8c20af4cc797, type: 3}
@@ -6901,6 +7227,7 @@ GameObject:
   - component: {fileID: 919612628}
   - component: {fileID: 918646292}
   - component: {fileID: 913474324}
+  - component: {fileID: 920939765}
   m_Layer: 0
   m_Name: fence_double (6)
   m_TagString: Untagged
@@ -6923,6 +7250,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 58
   m_LocalEulerAnglesHint: {x: 0.813, y: 1.487, z: 0.056}
+--- !u!65 &920939765
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 920907988}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.1890091, z: 0.20418708}
+  m_Center: {x: -1.7973721, y: 0.59450454, z: 0.00003037458}
 --- !u!4 &922954878 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3dbe768a5401d4947ba8e2b3d4a6b066, type: 3}
@@ -6975,6 +7315,7 @@ GameObject:
   - component: {fileID: 934105586}
   - component: {fileID: 935072562}
   - component: {fileID: 923794994}
+  - component: {fileID: 935072563}
   m_Layer: 0
   m_Name: fence_double (19)
   m_TagString: Untagged
@@ -7032,6 +7373,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &935072563
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 933137906}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052563, y: 1.1890091, z: 0.20418717}
+  m_Center: {x: -1.7973715, y: 0.59450454, z: -0.00000020882189}
 --- !u!23 &944693667
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7109,6 +7463,7 @@ GameObject:
   - component: {fileID: 945791843}
   - component: {fileID: 944693667}
   - component: {fileID: 956107939}
+  - component: {fileID: 956107940}
   m_Layer: 0
   m_Name: fence_double (11)
   m_TagString: Untagged
@@ -7234,6 +7589,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &956107940
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 946634595}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052582, y: 1.1890091, z: 0.20418727}
+  m_Center: {x: -1.7973725, y: 0.59450454, z: -0.000013560262}
 --- !u!1 &963078091
 GameObject:
   m_ObjectHideFlags: 0
@@ -8858,6 +9226,7 @@ GameObject:
   - component: {fileID: 1019290939}
   - component: {fileID: 1020291067}
   - component: {fileID: 1013156603}
+  - component: {fileID: 1022715164}
   m_Layer: 0
   m_Name: fence_double (33)
   m_TagString: Untagged
@@ -8880,6 +9249,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 85
   m_LocalEulerAnglesHint: {x: 0, y: 0.343, z: 0}
+--- !u!65 &1022715164
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1022556475}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.00000010058286}
 --- !u!1 &1028551618
 GameObject:
   m_ObjectHideFlags: 0
@@ -15662,6 +16044,7 @@ GameObject:
   - component: {fileID: 1298936528}
   - component: {fileID: 1300066320}
   - component: {fileID: 1305386256}
+  - component: {fileID: 1305386257}
   m_Layer: 0
   m_Name: fence_double (20)
   m_TagString: Untagged
@@ -15767,6 +16150,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1305386257
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1298132688}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052592, y: 1.1890091, z: 0.20418742}
+  m_Center: {x: -1.7973119, y: 0.5945026, z: 0.000000057899925}
 --- !u!23 &1305740257
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15836,6 +16232,7 @@ GameObject:
   - component: {fileID: 1304772897}
   - component: {fileID: 1305740257}
   - component: {fileID: 1298656993}
+  - component: {fileID: 1308007714}
   m_Layer: 0
   m_Name: fence_double (29)
   m_TagString: Untagged
@@ -15843,6 +16240,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &1308007714
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1308007713}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: 0.000030416995}
 --- !u!4 &1317235904 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 444a2171b6691a44dafa735a40124de2, type: 3}
@@ -17656,6 +18066,7 @@ GameObject:
   - component: {fileID: 1497910580}
   - component: {fileID: 1499009012}
   - component: {fileID: 1508565748}
+  - component: {fileID: 1508565749}
   m_Layer: 0
   m_Name: fence_double (16)
   m_TagString: Untagged
@@ -17718,6 +18129,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1508565749
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1501270324}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052563, y: 1.1890091, z: 0.20418695}
+  m_Center: {x: -1.7974325, y: 0.59450454, z: -0.00000010002916}
 --- !u!1 &1514912272
 GameObject:
   m_ObjectHideFlags: 0
@@ -17730,6 +18154,7 @@ GameObject:
   - component: {fileID: 1517839888}
   - component: {fileID: 1516840144}
   - component: {fileID: 1524287952}
+  - component: {fileID: 1524287953}
   m_Layer: 0
   m_Name: fence_double (43)
   m_TagString: Untagged
@@ -18462,6 +18887,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1524287953
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1514912272}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973566, y: 0.5945035, z: -0.00000010058286}
 --- !u!23 &1524784832
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19090,6 +19528,7 @@ GameObject:
   - component: {fileID: 1530360146}
   - component: {fileID: 1529230226}
   - component: {fileID: 1536548498}
+  - component: {fileID: 1536548499}
   m_Layer: 0
   m_Name: fence_double (42)
   m_TagString: Untagged
@@ -19172,6 +19611,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1536548499
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1527033170}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7973411, y: 0.5945035, z: -0.00000010058285}
 --- !u!33 &1560376058
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -19234,6 +19686,7 @@ GameObject:
   - component: {fileID: 1560376058}
   - component: {fileID: 1561342010}
   - component: {fileID: 1571020090}
+  - component: {fileID: 1571020091}
   m_Layer: 0
   m_Name: fence_double (8)
   m_TagString: Untagged
@@ -19276,6 +19729,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1571020091
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1563602682}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.1890091, z: 0.20418708}
+  m_Center: {x: -1.7973721, y: 0.59450454, z: 0.00003037458}
 --- !u!95 &1613394210
 Animator:
   serializedVersion: 4
@@ -19358,6 +19824,7 @@ GameObject:
   - component: {fileID: 1619582690}
   - component: {fileID: 1620679714}
   - component: {fileID: 1613394210}
+  - component: {fileID: 1622974147}
   m_Layer: 0
   m_Name: fence_double (22)
   m_TagString: Untagged
@@ -19380,6 +19847,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 74
   m_LocalEulerAnglesHint: {x: -0.693, y: 145.726, z: 0.43}
+--- !u!65 &1622974147
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1622868706}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052582, y: 1.1890091, z: 0.20418702}
+  m_Center: {x: -1.7974335, y: 0.59450454, z: -0.000011545782}
 --- !u!4 &1626505676 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3dbe768a5401d4947ba8e2b3d4a6b066, type: 3}
@@ -19669,6 +20149,7 @@ GameObject:
   - component: {fileID: 1743500375}
   - component: {fileID: 1744500375}
   - component: {fileID: 1732844439}
+  - component: {fileID: 1744500376}
   m_Layer: 0
   m_Name: fence_double (17)
   m_TagString: Untagged
@@ -19741,6 +20222,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &1744500376
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1742235735}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052563, y: 1.1890091, z: 0.20418695}
+  m_Center: {x: -1.7974325, y: 0.59450454, z: -0.000015358819}
 --- !u!4 &1784263798
 Transform:
   m_ObjectHideFlags: 0
@@ -19768,6 +20262,7 @@ GameObject:
   - component: {fileID: 1785590870}
   - component: {fileID: 1786558102}
   - component: {fileID: 1791974294}
+  - component: {fileID: 1791974295}
   m_Layer: 0
   m_Name: fence_double (30)
   m_TagString: Untagged
@@ -19845,6 +20340,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1791974295
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1784555606}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973416, y: 0.5945035, z: -0.000000100582874}
 --- !u!4 &1795798869
 Transform:
   m_ObjectHideFlags: 0
@@ -19872,6 +20380,7 @@ GameObject:
   - component: {fileID: 1799223157}
   - component: {fileID: 1798092213}
   - component: {fileID: 1805605045}
+  - component: {fileID: 1805605046}
   m_Layer: 0
   m_Name: fence_double (28)
   m_TagString: Untagged
@@ -20047,6 +20556,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1805605046
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1796090741}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.000000100582874}
 --- !u!4 &1829369934
 Transform:
   m_ObjectHideFlags: 0
@@ -20074,6 +20596,7 @@ GameObject:
   - component: {fileID: 1832761454}
   - component: {fileID: 1831664302}
   - component: {fileID: 1839142830}
+  - component: {fileID: 1839142831}
   m_Layer: 0
   m_Name: fence_double (26)
   m_TagString: Untagged
@@ -20151,6 +20674,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1839142831
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1829659758}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.000000100582874}
 --- !u!4 &1856771706 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b2e9ef0f0b3b76049b8c8c20af4cc797, type: 3}
@@ -20454,6 +20990,7 @@ GameObject:
   - component: {fileID: 1904947724}
   - component: {fileID: 1905946828}
   - component: {fileID: 1898552780}
+  - component: {fileID: 1908372013}
   m_Layer: 0
   m_Name: fence_double (5)
   m_TagString: Untagged
@@ -20476,6 +21013,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 57
   m_LocalEulerAnglesHint: {x: 0.815, y: -1.104, z: 0.019}
+--- !u!65 &1908372013
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1907944972}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052582, y: 1.1890091, z: 0.20418712}
+  m_Center: {x: -1.7973725, y: 0.59450454, z: 0.000030367884}
 --- !u!33 &1912818680
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -20538,6 +21088,7 @@ GameObject:
   - component: {fileID: 1912818680}
   - component: {fileID: 1913784632}
   - component: {fileID: 1923212344}
+  - component: {fileID: 1923212345}
   m_Layer: 0
   m_Name: fence_double (23)
   m_TagString: Untagged
@@ -20585,6 +21136,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1923212345
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1915787256}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052582, y: 1.1890091, z: 0.20418702}
+  m_Center: {x: -1.7973725, y: 0.59450454, z: -0.00001536048}
 --- !u!4 &1932771311 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c33cde148d22637438dc894462957486, type: 3}
@@ -20979,6 +21543,7 @@ GameObject:
   - component: {fileID: 1995445031}
   - component: {fileID: 1994478055}
   - component: {fileID: 1985133799}
+  - component: {fileID: 1995445032}
   m_Layer: 0
   m_Name: fence_double (21)
   m_TagString: Untagged
@@ -21051,6 +21616,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1992544039}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &1995445032
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1992544039}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052592, y: 1.1890091, z: 0.20418742}
+  m_Center: {x: -1.7973729, y: 0.59450454, z: 0.00001531669}
 --- !u!4 &2019528529 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c33cde148d22637438dc894462957486, type: 3}
@@ -22359,6 +22937,7 @@ GameObject:
   - component: {fileID: 2046988736}
   - component: {fileID: 2048119552}
   - component: {fileID: 2057321984}
+  - component: {fileID: 2057321985}
   m_Layer: 0
   m_Name: fence_double (27)
   m_TagString: Untagged
@@ -22401,6 +22980,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &2057321985
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2050051520}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973416, y: 0.5945035, z: -0.000000100582874}
 --- !u!95 &2069765883
 Animator:
   serializedVersion: 4
@@ -22453,6 +23045,7 @@ GameObject:
   - component: {fileID: 2080158011}
   - component: {fileID: 2079192059}
   - component: {fileID: 2069765883}
+  - component: {fileID: 2080158012}
   m_Layer: 0
   m_Name: fence_double (38)
   m_TagString: Untagged
@@ -22510,6 +23103,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2077191483}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &2080158012
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2077191483}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: -0.00000010058286}
 --- !u!1 &2118136154
 GameObject:
   m_ObjectHideFlags: 0
@@ -22522,6 +23128,7 @@ GameObject:
   - component: {fileID: 2121526618}
   - component: {fileID: 2120396698}
   - component: {fileID: 2127643290}
+  - component: {fileID: 2127643291}
   m_Layer: 0
   m_Name: fence_double (41)
   m_TagString: Untagged
@@ -22614,6 +23221,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &2127643291
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2118136154}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7973411, y: 0.5945035, z: -0.00000010058285}
 --- !u!4 &796684174898921
 Transform:
   m_ObjectHideFlags: 0
@@ -22722,6 +23342,7 @@ GameObject:
   - component: {fileID: 74253266163467690}
   - component: {fileID: 74253266162501482}
   - component: {fileID: 74253266173864554}
+  - component: {fileID: 74253266173864555}
   m_Layer: 0
   m_Name: fence_double (31)
   m_TagString: Untagged
@@ -22749,6 +23370,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &74253266173864555
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 74253266164505002}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973108, y: 0.5945035, z: -0.00000010058287}
 --- !u!23 &133663026535859734
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -22826,6 +23460,7 @@ GameObject:
   - component: {fileID: 133663026536989910}
   - component: {fileID: 133663026535859734}
   - component: {fileID: 133663026547387158}
+  - component: {fileID: 133663026547387159}
   m_Layer: 0
   m_Name: fence_double (32)
   m_TagString: Untagged
@@ -22853,6 +23488,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &133663026547387159
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 133663026537863382}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945045, z: 0.000060934573}
 --- !u!4 &139318926346772170
 Transform:
   m_ObjectHideFlags: 0
@@ -22931,6 +23579,7 @@ GameObject:
   - component: {fileID: 139567367717470988}
   - component: {fileID: 139567367718437324}
   - component: {fileID: 139567367728131276}
+  - component: {fileID: 139567367728131277}
   m_Layer: 0
   m_Name: fence_double (20)
   m_TagString: Untagged
@@ -22973,6 +23622,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &139567367728131277
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 139567367720705804}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7974021, y: 0.5945045, z: 0.000060934573}
 --- !u!1 &161962174522919618
 GameObject:
   m_ObjectHideFlags: 0
@@ -23084,6 +23746,7 @@ GameObject:
   - component: {fileID: 270683811182744290}
   - component: {fileID: 270683811181645858}
   - component: {fileID: 270683811172171042}
+  - component: {fileID: 270683811182744291}
   m_Layer: 0
   m_Name: fence_double (35)
   m_TagString: Untagged
@@ -23141,6 +23804,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 270683811179450082}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &270683811182744291
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 270683811179450082}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973795, y: 0.5945035, z: -0.00006113574}
 --- !u!1 &289506660722511268
 GameObject:
   m_ObjectHideFlags: 0
@@ -23239,6 +23915,7 @@ GameObject:
   - component: {fileID: 291782431558634998}
   - component: {fileID: 291782431559765814}
   - component: {fileID: 291782431552447030}
+  - component: {fileID: 291782431562059223}
   m_Layer: 0
   m_Name: fence_double (45)
   m_TagString: Untagged
@@ -23261,6 +23938,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 43
   m_LocalEulerAnglesHint: {x: 0, y: 180.134, z: 0}
+--- !u!65 &291782431562059223
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 291782431561961974}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: -0.00003061816}
 --- !u!23 &326515394686922720
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23323,6 +24013,7 @@ GameObject:
   - component: {fileID: 326515394688052512}
   - component: {fileID: 326515394686922720}
   - component: {fileID: 326515394698363616}
+  - component: {fileID: 326515394698363617}
   m_Layer: 0
   m_Name: fence_double (50)
   m_TagString: Untagged
@@ -23365,6 +24056,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &326515394698363617
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 326515394688856352}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.189009, z: 0.20418702}
+  m_Center: {x: -1.7974333, y: 0.5945035, z: -0.00006113574}
 --- !u!23 &354582006581372216
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23442,6 +24146,7 @@ GameObject:
   - component: {fileID: 354582006582372344}
   - component: {fileID: 354582006581372216}
   - component: {fileID: 354582006592751672}
+  - component: {fileID: 354582006592751673}
   m_Layer: 0
   m_Name: fence_double (30)
   m_TagString: Untagged
@@ -23469,6 +24174,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &354582006592751673
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 354582006583376888}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.00004587695}
 --- !u!4 &370824799683100796
 Transform:
   m_ObjectHideFlags: 0
@@ -23519,6 +24237,7 @@ GameObject:
   - component: {fileID: 396349984501449342}
   - component: {fileID: 396349984500449470}
   - component: {fileID: 396349984491072958}
+  - component: {fileID: 396349984501449343}
   m_Layer: 0
   m_Name: fence_double (59)
   m_TagString: Untagged
@@ -23591,6 +24310,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 396349984498458238}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &396349984501449343
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 396349984498458238}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052592, y: 1.189009, z: 0.2041871}
+  m_Center: {x: -1.7973729, y: 0.5945035, z: 0.000060934573}
 --- !u!23 &412870432346895844
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -23668,6 +24400,7 @@ GameObject:
   - component: {fileID: 412870432347993892}
   - component: {fileID: 412870432346895844}
   - component: {fileID: 412870432358635748}
+  - component: {fileID: 412870432358635749}
   m_Layer: 0
   m_Name: fence_double (2)
   m_TagString: Untagged
@@ -23695,6 +24428,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &412870432358635749
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 412870432349154084}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.79725, y: 0.5945035, z: 0.000032324344}
 --- !u!1 &442485858236434357
 GameObject:
   m_ObjectHideFlags: 0
@@ -23707,6 +24453,7 @@ GameObject:
   - component: {fileID: 442485858237602741}
   - component: {fileID: 442485858238699893}
   - component: {fileID: 442485858243736693}
+  - component: {fileID: 442485858243736694}
   m_Layer: 0
   m_Name: fence_double (28)
   m_TagString: Untagged
@@ -23799,6 +24546,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &442485858243736694
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 442485858236434357}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7974021, y: 0.5945035, z: 0.000030416995}
 --- !u!95 &443338797839523210
 Animator:
   serializedVersion: 4
@@ -23846,6 +24606,7 @@ GameObject:
   - component: {fileID: 443338797849850442}
   - component: {fileID: 443338797848752266}
   - component: {fileID: 443338797839523210}
+  - component: {fileID: 443338797849850443}
   m_Layer: 0
   m_Name: fence_double (16)
   m_TagString: Untagged
@@ -23903,6 +24664,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 443338797846818378}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &443338797849850443
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 443338797846818378}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973416, y: 0.5945035, z: -0.00006113574}
 --- !u!4 &530369984957411460
 Transform:
   m_ObjectHideFlags: 0
@@ -24204,6 +24978,7 @@ GameObject:
   - component: {fileID: 610243875139175593}
   - component: {fileID: 610243875140142697}
   - component: {fileID: 610243875149572969}
+  - component: {fileID: 610243875149572970}
   m_Layer: 0
   m_Name: fence_double (19)
   m_TagString: Untagged
@@ -24231,6 +25006,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &610243875149572970
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 610243875142146217}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945045, z: -0.00003061816}
 --- !u!1 &650691595427260837
 GameObject:
   m_ObjectHideFlags: 0
@@ -24389,6 +25177,7 @@ GameObject:
   - component: {fileID: 846044803411536563}
   - component: {fileID: 846044803412633715}
   - component: {fileID: 846044803417916787}
+  - component: {fileID: 846044803417916788}
   m_Layer: 0
   m_Name: fence_double (34)
   m_TagString: Untagged
@@ -24481,6 +25270,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &846044803417916788
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 846044803410638515}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7974021, y: 0.5945045, z: 0.000060934573}
 --- !u!33 &867798686924452197
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -24586,6 +25388,7 @@ GameObject:
   - component: {fileID: 911648034030228458}
   - component: {fileID: 911648034031358250}
   - component: {fileID: 911648034023849002}
+  - component: {fileID: 911648034033356779}
   m_Layer: 0
   m_Name: fence_double (10)
   m_TagString: Untagged
@@ -24593,6 +25396,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &911648034033356779
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 911648034033356778}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7974026, y: 0.5945035, z: -0.00000010058286}
 --- !u!1 &919132147622826026
 GameObject:
   m_ObjectHideFlags: 0
@@ -28021,6 +28837,7 @@ GameObject:
   - component: {fileID: 948876409533601969}
   - component: {fileID: 948876409532504689}
   - component: {fileID: 948876409522960241}
+  - component: {fileID: 948876409533601970}
   m_Layer: 0
   m_Name: fence_double (4)
   m_TagString: Untagged
@@ -28078,6 +28895,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 948876409530238129}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &948876409533601970
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 948876409530238129}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052582, y: 1.189009, z: 0.20418705}
+  m_Center: {x: -1.7974335, y: 0.5945045, z: -0.00000391528}
 --- !u!23 &951213589292547923
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -28155,6 +28985,7 @@ GameObject:
   - component: {fileID: 951213589293645203}
   - component: {fileID: 951213589292547923}
   - component: {fileID: 951213589304021587}
+  - component: {fileID: 951213589304021588}
   m_Layer: 0
   m_Name: fence_double (41)
   m_TagString: Untagged
@@ -28182,6 +29013,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &951213589304021588
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 951213589294539155}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973948, y: 0.5945035, z: -0.0001221709}
 --- !u!1 &1046825625496887414
 GameObject:
   m_ObjectHideFlags: 0
@@ -28306,6 +29150,7 @@ GameObject:
   - component: {fileID: 1090700718951434301}
   - component: {fileID: 1090700718950337277}
   - component: {fileID: 1090700718962092029}
+  - component: {fileID: 1090700718962092030}
   m_Layer: 0
   m_Name: fence_double (17)
   m_TagString: Untagged
@@ -28333,6 +29178,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1090700718962092030
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1090700718952600637}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973416, y: 0.5945045, z: -0.00006113574}
 --- !u!95 &1143858640936412140
 Animator:
   serializedVersion: 4
@@ -28380,6 +29238,7 @@ GameObject:
   - component: {fileID: 1143858640946727980}
   - component: {fileID: 1143858640947859180}
   - component: {fileID: 1143858640936412140}
+  - component: {fileID: 1143858640947859181}
   m_Layer: 0
   m_Name: fence_double (22)
   m_TagString: Untagged
@@ -28437,6 +29296,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &1143858640947859181
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1143858640945926188}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: -0.00006113574}
 --- !u!33 &1178803818914548001
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -28514,6 +29386,7 @@ GameObject:
   - component: {fileID: 1178803818914548001}
   - component: {fileID: 1178803818915679201}
   - component: {fileID: 1178803818924877537}
+  - component: {fileID: 1178803818924877538}
   m_Layer: 0
   m_Name: fence_double (34)
   m_TagString: Untagged
@@ -28541,6 +29414,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1178803818924877538
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1178803818917614881}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7973716, y: 0.5945045, z: 0.000060934573}
 --- !u!4 &1180194110949551144
 Transform:
   m_ObjectHideFlags: 0
@@ -28592,6 +29478,7 @@ GameObject:
   - component: {fileID: 1253680218178409182}
   - component: {fileID: 1253680218177277982}
   - component: {fileID: 1253680218184875294}
+  - component: {fileID: 1253680218184875295}
   m_Layer: 0
   m_Name: fence_double (47)
   m_TagString: Untagged
@@ -28669,6 +29556,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1253680218184875295
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1253680218175344350}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: 0.000030416995}
 --- !u!95 &1257589684738037986
 Animator:
   serializedVersion: 4
@@ -28701,6 +29601,7 @@ GameObject:
   - component: {fileID: 1257589684748629794}
   - component: {fileID: 1257589684749628898}
   - component: {fileID: 1257589684738037986}
+  - component: {fileID: 1257589684749628899}
   m_Layer: 0
   m_Name: fence_double (14)
   m_TagString: Untagged
@@ -28773,6 +29674,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &1257589684749628899
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1257589684747430690}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973108, y: 0.59450257, z: 0.000015158206}
 --- !u!1 &1308318774000813347
 GameObject:
   m_ObjectHideFlags: 0
@@ -28886,6 +29800,7 @@ GameObject:
   - component: {fileID: 1327033115164520540}
   - component: {fileID: 1327033115165520540}
   - component: {fileID: 1327033115158060956}
+  - component: {fileID: 1327033115167452253}
   m_Layer: 0
   m_Name: fence_double (54)
   m_TagString: Untagged
@@ -28893,6 +29808,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &1327033115167452253
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327033115167452252}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: 0.000060934573}
 --- !u!4 &1333515038115340158
 Transform:
   m_ObjectHideFlags: 0
@@ -28995,6 +29923,7 @@ GameObject:
   - component: {fileID: 1417467035872179065}
   - component: {fileID: 1417467035871211961}
   - component: {fileID: 1417467035861785785}
+  - component: {fileID: 1417467035872179066}
   m_Layer: 0
   m_Name: fence_double (22)
   m_TagString: Untagged
@@ -29052,6 +29981,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1417467035869212537}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &1417467035872179066
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1417467035869212537}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: 0.000060934573}
 --- !u!1 &1452324573060279425
 GameObject:
   m_ObjectHideFlags: 0
@@ -29351,6 +30293,7 @@ GameObject:
   - component: {fileID: 1677057488797224777}
   - component: {fileID: 1677057488798322057}
   - component: {fileID: 1677057488786579593}
+  - component: {fileID: 1677057488798322058}
   m_Layer: 0
   m_Name: fence_double (51)
   m_TagString: Untagged
@@ -29423,6 +30366,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &1677057488798322058
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1677057488796062537}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052582, y: 1.189009, z: 0.20418705}
+  m_Center: {x: -1.7973114, y: 0.5945045, z: 0.000030416995}
 --- !u!23 &1711813855289340415
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -29562,6 +30518,7 @@ GameObject:
   - component: {fileID: 1799953972069846628}
   - component: {fileID: 1799953972070943908}
   - component: {fileID: 1799953972080173476}
+  - component: {fileID: 1799953972080173477}
   m_Layer: 0
   m_Name: fence_double (12)
   m_TagString: Untagged
@@ -29589,6 +30546,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1799953972080173477
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1799953972072878692}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945035, z: -0.00000010058284}
 --- !u!1 &1812176838224017467
 GameObject:
   m_ObjectHideFlags: 0
@@ -29694,6 +30664,7 @@ GameObject:
   - component: {fileID: 1965457554434596715}
   - component: {fileID: 1965457554435726763}
   - component: {fileID: 1965457554440728747}
+  - component: {fileID: 1965457554440728748}
   m_Layer: 0
   m_Name: fence_double (37)
   m_TagString: Untagged
@@ -29771,6 +30742,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &1965457554440728748
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1965457554433459051}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973416, y: 0.5945035, z: 0.000030416995}
 --- !u!1 &1975052890573878992
 GameObject:
   m_ObjectHideFlags: 0
@@ -31126,6 +32110,7 @@ GameObject:
   - component: {fileID: 2051418806359267752}
   - component: {fileID: 2051418806358170472}
   - component: {fileID: 2051418806353081960}
+  - component: {fileID: 2051418806360594825}
   m_Layer: 0
   m_Name: fence_double (52)
   m_TagString: Untagged
@@ -31148,6 +32133,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 50
   m_LocalEulerAnglesHint: {x: 0, y: 179.808, z: 0}
+--- !u!65 &2051418806360594825
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2051418806360360360}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.189009, z: 0.20418702}
+  m_Center: {x: -1.7974943, y: 0.5945035, z: -0.00006113574}
 --- !u!1 &2066551477678765154
 GameObject:
   m_ObjectHideFlags: 0
@@ -31160,6 +32158,7 @@ GameObject:
   - component: {fileID: 2066551477679827042}
   - component: {fileID: 2066551477680958114}
   - component: {fileID: 2066551477686011810}
+  - component: {fileID: 2066551477686011811}
   m_Layer: 0
   m_Name: fence_double (5)
   m_TagString: Untagged
@@ -31252,6 +32251,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &2066551477686011811
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2066551477678765154}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052587, y: 1.189009, z: 0.20418707}
+  m_Center: {x: -1.7974337, y: 0.5945045, z: -0.00000010058288}
 --- !u!4 &2087637811819966570
 Transform:
   m_ObjectHideFlags: 0
@@ -31299,6 +32311,7 @@ GameObject:
   - component: {fileID: 2103964596555174177}
   - component: {fileID: 2103964596556141537}
   - component: {fileID: 2103964596544601825}
+  - component: {fileID: 2103964596556141538}
   m_Layer: 0
   m_Name: fence_double (39)
   m_TagString: Untagged
@@ -31371,6 +32384,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &2103964596556141538
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2103964596553944353}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973413, y: 0.5945035, z: -0.00000010058287}
 --- !u!65 &2135412611702397983
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31583,6 +32609,7 @@ GameObject:
   - component: {fileID: 2207878458883228238}
   - component: {fileID: 2207878458882228366}
   - component: {fileID: 2207878458872851854}
+  - component: {fileID: 2207878458883228239}
   m_Layer: 0
   m_Name: fence_double (25)
   m_TagString: Untagged
@@ -31655,6 +32682,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2207878458880237134}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &2207878458883228239
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2207878458880237134}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945045, z: -0.000000100582845}
 --- !u!33 &2233159769811526931
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -31732,6 +32772,7 @@ GameObject:
   - component: {fileID: 2233159769811526931}
   - component: {fileID: 2233159769812527059}
   - component: {fileID: 2233159769821907667}
+  - component: {fileID: 2233159769821907668}
   m_Layer: 0
   m_Name: fence_double (12)
   m_TagString: Untagged
@@ -31759,6 +32800,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &2233159769821907668
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2233159769814530323}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.79725, y: 0.5945035, z: -0.00003061816}
 --- !u!4 &2237740425005301269
 Transform:
   m_ObjectHideFlags: 0
@@ -31818,6 +32872,7 @@ GameObject:
   - component: {fileID: 2317037422747592042}
   - component: {fileID: 2317037422748723114}
   - component: {fileID: 2317037422754040490}
+  - component: {fileID: 2317037422754040491}
   m_Layer: 0
   m_Name: fence_double (6)
   m_TagString: Untagged
@@ -31910,6 +32965,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &2317037422754040491
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2317037422746794346}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.000022988766}
 --- !u!4 &2326702931971012370
 Transform:
   m_ObjectHideFlags: 0
@@ -31980,6 +33048,7 @@ GameObject:
   - component: {fileID: 2435167259051262225}
   - component: {fileID: 2435167259052262353}
   - component: {fileID: 2435167259057663697}
+  - component: {fileID: 2435167259057663698}
   m_Layer: 0
   m_Name: fence_double (8)
   m_TagString: Untagged
@@ -32072,6 +33141,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &2435167259057663698
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2435167259050269969}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.1890088, z: 0.20418721}
+  m_Center: {x: -1.7973721, y: 0.59450155, z: 0.0000150488595}
 --- !u!95 &2447711584138207690
 Animator:
   serializedVersion: 4
@@ -32154,6 +33236,7 @@ GameObject:
   - component: {fileID: 2447711584144330250}
   - component: {fileID: 2447711584145460426}
   - component: {fileID: 2447711584138207690}
+  - component: {fileID: 2447711584147754539}
   m_Layer: 0
   m_Name: fence_double (39)
   m_TagString: Untagged
@@ -32176,6 +33259,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 177.835, z: 0}
+--- !u!65 &2447711584147754539
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2447711584147722762}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.189009, z: 0.20418702}
+  m_Center: {x: -1.7973722, y: 0.5945035, z: -0.00000010058289}
 --- !u!1 &2468789969890699724
 GameObject:
   m_ObjectHideFlags: 0
@@ -32262,6 +33358,7 @@ GameObject:
   - component: {fileID: 2580904967627772994}
   - component: {fileID: 2580904967626806914}
   - component: {fileID: 2580904967633910658}
+  - component: {fileID: 2580904967633910659}
   m_Layer: 0
   m_Name: fence_double (38)
   m_TagString: Untagged
@@ -32339,6 +33436,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &2580904967633910659
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2580904967624542274}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.189009, z: 0.20418702}
+  m_Center: {x: -1.7974027, y: 0.5945035, z: -0.00000010058289}
 --- !u!95 &2600544529494844085
 Animator:
   serializedVersion: 4
@@ -32421,6 +33531,7 @@ GameObject:
   - component: {fileID: 2600544529501293941}
   - component: {fileID: 2600544529502425013}
   - component: {fileID: 2600544529494844085}
+  - component: {fileID: 2600544529504718166}
   m_Layer: 0
   m_Name: fence_double (53)
   m_TagString: Untagged
@@ -32443,6 +33554,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 148
   m_LocalEulerAnglesHint: {x: 0, y: 361.566, z: 0}
+--- !u!65 &2600544529504718166
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2600544529504358773}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.189009, z: 0.20418702}
+  m_Center: {x: -1.7973112, y: 0.5945035, z: -0.00000010058289}
 --- !u!33 &2611961828866520368
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -32463,6 +33587,7 @@ GameObject:
   - component: {fileID: 2616116941741975684}
   - component: {fileID: 2616116941742942788}
   - component: {fileID: 2616116941748422468}
+  - component: {fileID: 2616116941748422469}
   m_Layer: 0
   m_Name: fence_double (27)
   m_TagString: Untagged
@@ -32555,6 +33680,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &2616116941748422469
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2616116941741012100}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973416, y: 0.5945035, z: 0.000030416995}
 --- !u!23 &2641338822696781023
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -32617,6 +33755,7 @@ GameObject:
   - component: {fileID: 2641338822697879071}
   - component: {fileID: 2641338822696781023}
   - component: {fileID: 2641338822708275679}
+  - component: {fileID: 2641338822708275680}
   m_Layer: 0
   m_Name: fence_double (48)
   m_TagString: Untagged
@@ -32659,6 +33798,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &2641338822708275680
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2641338822698785311}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: 0.000030416995}
 --- !u!137 &2672177537572788611
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 0
@@ -32864,6 +34016,7 @@ GameObject:
   - component: {fileID: 2760484182292076787}
   - component: {fileID: 2760484182291110451}
   - component: {fileID: 2760484182285629235}
+  - component: {fileID: 2760484182293403860}
   m_Layer: 0
   m_Name: fence_double (2)
   m_TagString: Untagged
@@ -32886,6 +34039,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 97
   m_LocalEulerAnglesHint: {x: 0, y: 129.42, z: 0}
+--- !u!65 &2760484182293403860
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2760484182293038323}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: 0.0000075288117}
 --- !u!1 &2795818513004636645
 GameObject:
   m_ObjectHideFlags: 0
@@ -32949,6 +34115,7 @@ GameObject:
   - component: {fileID: 2796463916072772247}
   - component: {fileID: 2796463916071673943}
   - component: {fileID: 2796463916062182743}
+  - component: {fileID: 2796463916072772248}
   m_Layer: 0
   m_Name: fence_double (40)
   m_TagString: Untagged
@@ -33006,6 +34173,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2796463916069486231}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &2796463916072772248
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2796463916069486231}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7973716, y: 0.5945035, z: -0.00000010058284}
 --- !u!65 &2801792937040086572
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -33047,6 +34227,7 @@ GameObject:
   - component: {fileID: 2835691245222756487}
   - component: {fileID: 2835691245221790279}
   - component: {fileID: 2835691245229223751}
+  - component: {fileID: 2835691245229223752}
   m_Layer: 0
   m_Name: fence_double (6)
   m_TagString: Untagged
@@ -33139,6 +34320,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &2835691245229223752
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2835691245219863687}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605256, y: 1.189009, z: 0.20418692}
+  m_Center: {x: -1.7974324, y: 0.5945035, z: -0.00004587695}
 --- !u!1 &2912109902198312884
 GameObject:
   m_ObjectHideFlags: 0
@@ -33306,6 +34500,7 @@ GameObject:
   - component: {fileID: 3130498892543543094}
   - component: {fileID: 3130498892544509430}
   - component: {fileID: 3130498892537096438}
+  - component: {fileID: 3130498892546448183}
   m_Layer: 0
   m_Name: fence_double (30)
   m_TagString: Untagged
@@ -33313,6 +34508,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &3130498892546448183
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3130498892546448182}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052587, y: 1.189009, z: 0.20418707}
+  m_Center: {x: -1.7973727, y: 0.5945035, z: -0.00000010058288}
 --- !u!33 &3162895319713641638
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -33390,6 +34598,7 @@ GameObject:
   - component: {fileID: 3162895319713641638}
   - component: {fileID: 3162895319714739814}
   - component: {fileID: 3162895319723957094}
+  - component: {fileID: 3162895319723957095}
   m_Layer: 0
   m_Name: fence_double (3)
   m_TagString: Untagged
@@ -33417,6 +34626,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &3162895319723957095
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3162895319716669606}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945045, z: -0.00000010058286}
 --- !u!23 &3194769899952968044
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -33557,6 +34779,7 @@ GameObject:
   - component: {fileID: 3260627475205691252}
   - component: {fileID: 3260627475206690228}
   - component: {fileID: 3260627475199244468}
+  - component: {fileID: 3260627475209115477}
   m_Layer: 0
   m_Name: fence_double (16)
   m_TagString: Untagged
@@ -33579,6 +34802,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: -47.498, z: 0}
+--- !u!65 &3260627475209115477
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3260627475208620916}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7972498, y: 0.5945045, z: -0.000015359372}
 --- !u!33 &3295371327438903432
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -33641,6 +34877,7 @@ GameObject:
   - component: {fileID: 3295371327438903432}
   - component: {fileID: 3295371327440001608}
   - component: {fileID: 3295371327449495368}
+  - component: {fileID: 3295371327449495369}
   m_Layer: 0
   m_Name: fence_double (28)
   m_TagString: Untagged
@@ -33683,6 +34920,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &3295371327449495369
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3295371327442191496}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: -0.00006113574}
 --- !u!33 &3303149317325580413
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -33909,6 +35159,7 @@ GameObject:
   - component: {fileID: 3487550175823684532}
   - component: {fileID: 3487550175822684532}
   - component: {fileID: 3487550175834066036}
+  - component: {fileID: 3487550175834066037}
   m_Layer: 0
   m_Name: fence_double (44)
   m_TagString: Untagged
@@ -33951,6 +35202,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &3487550175834066037
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3487550175824691124}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945035, z: -0.00006113574}
 --- !u!1 &3492647056781499264
 GameObject:
   m_ObjectHideFlags: 0
@@ -34096,6 +35360,7 @@ GameObject:
   - component: {fileID: 3586886799364886515}
   - component: {fileID: 3586886799366016307}
   - component: {fileID: 3586886799354241075}
+  - component: {fileID: 3586886799366016308}
   m_Layer: 0
   m_Name: fence_double (48)
   m_TagString: Untagged
@@ -34153,6 +35418,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &3586886799366016308
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3586886799363757043}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.189009, z: 0.20418702}
+  m_Center: {x: -1.7974333, y: 0.5945035, z: -0.00006113574}
 --- !u!95 &3593176807101899140
 Animator:
   serializedVersion: 4
@@ -34235,6 +35513,7 @@ GameObject:
   - component: {fileID: 3593176807108087364}
   - component: {fileID: 3593176807106989188}
   - component: {fileID: 3593176807101899140}
+  - component: {fileID: 3593176807109414501}
   m_Layer: 0
   m_Name: fence_double (11)
   m_TagString: Untagged
@@ -34257,6 +35536,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: -37.889, z: 0}
+--- !u!65 &3593176807109414501
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3593176807109186116}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.0000058226287}
 --- !u!1 &3634284209675191197
 GameObject:
   m_ObjectHideFlags: 0
@@ -34424,6 +35716,7 @@ GameObject:
   - component: {fileID: 3811392099950501427}
   - component: {fileID: 3811392099951500531}
   - component: {fileID: 3811392099960828403}
+  - component: {fileID: 3811392099960828404}
   m_Layer: 0
   m_Name: fence_double (55)
   m_TagString: Untagged
@@ -34451,6 +35744,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &3811392099960828404
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3811392099953426995}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973108, y: 0.5945035, z: 0.000030416995}
 --- !u!4 &3835306479281600367
 Transform:
   m_ObjectHideFlags: 0
@@ -34530,6 +35836,7 @@ GameObject:
   - component: {fileID: 3952615953059490243}
   - component: {fileID: 3952615953060489987}
   - component: {fileID: 3952615953048897027}
+  - component: {fileID: 3952615953060489988}
   m_Layer: 0
   m_Name: fence_double (24)
   m_TagString: Untagged
@@ -34587,6 +35894,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &3952615953060489988
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3952615953058297283}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973416, y: 0.5945045, z: 0.000060934573}
 --- !u!95 &3953884822006249309
 Animator:
   serializedVersion: 4
@@ -34684,6 +36004,7 @@ GameObject:
   - component: {fileID: 3953884822012631197}
   - component: {fileID: 3953884822011533917}
   - component: {fileID: 3953884822006249309}
+  - component: {fileID: 3953884822013527198}
   m_Layer: 0
   m_Name: fence_double (1)
   m_TagString: Untagged
@@ -34691,6 +36012,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &3953884822013527198
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3953884822013527197}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: 0.000017065555}
 --- !u!65 &3959344461026625875
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -34782,6 +36116,7 @@ GameObject:
   - component: {fileID: 4023328507516259826}
   - component: {fileID: 4023328507515162418}
   - component: {fileID: 4023328507522654770}
+  - component: {fileID: 4023328507522654771}
   m_Layer: 0
   m_Name: fence_double (45)
   m_TagString: Untagged
@@ -34859,6 +36194,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &4023328507522654771
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4023328507513164274}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945045, z: -0.000000100582874}
 --- !u!1 &4025631936402113938
 GameObject:
   m_ObjectHideFlags: 0
@@ -35158,6 +36506,7 @@ GameObject:
   - component: {fileID: 4411258821023803454}
   - component: {fileID: 4411258821024934654}
   - component: {fileID: 4411258821029922814}
+  - component: {fileID: 4411258821029922815}
   m_Layer: 0
   m_Name: fence_double (7)
   m_TagString: Untagged
@@ -35235,6 +36584,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &4411258821029922815
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4411258821022676030}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7974329, y: 0.5945035, z: -0.00000010058285}
 --- !u!23 &4430246845364629547
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -35297,6 +36659,7 @@ GameObject:
   - component: {fileID: 4430246845365727979}
   - component: {fileID: 4430246845364629547}
   - component: {fileID: 4430246845376306475}
+  - component: {fileID: 4430246845376306476}
   m_Layer: 0
   m_Name: fence_double (43)
   m_TagString: Untagged
@@ -35339,6 +36702,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &4430246845376306476
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4430246845366824683}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7974026, y: 0.5945035, z: -0.00000010058286}
 --- !u!1 &4431960476183263469
 GameObject:
   m_ObjectHideFlags: 0
@@ -35393,6 +36769,7 @@ GameObject:
   - component: {fileID: 4476723475007120558}
   - component: {fileID: 4476723475006023278}
   - component: {fileID: 4476723475013241710}
+  - component: {fileID: 4476723475013241711}
   m_Layer: 0
   m_Name: fence_double (14)
   m_TagString: Untagged
@@ -35485,6 +36862,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &4476723475013241711
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4476723475003766958}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945045, z: -0.00006113574}
 --- !u!95 &4493037637210154520
 Animator:
   serializedVersion: 4
@@ -35532,6 +36922,7 @@ GameObject:
   - component: {fileID: 4493037637220534744}
   - component: {fileID: 4493037637219437336}
   - component: {fileID: 4493037637210154520}
+  - component: {fileID: 4493037637220534745}
   m_Layer: 0
   m_Name: fence_double (24)
   m_TagString: Untagged
@@ -35589,6 +36980,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4493037637217441240}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &4493037637220534745
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4493037637217441240}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945045, z: -0.00006113574}
 --- !u!4 &4498394803387380424
 Transform:
   m_ObjectHideFlags: 0
@@ -35687,6 +37091,7 @@ GameObject:
   - component: {fileID: 4510472770144691055}
   - component: {fileID: 4510472770145657263}
   - component: {fileID: 4510472770138229935}
+  - component: {fileID: 4510472770148082512}
   m_Layer: 0
   m_Name: fence_double (47)
   m_TagString: Untagged
@@ -35709,6 +37114,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 45
   m_LocalEulerAnglesHint: {x: 0, y: 175.683, z: 0}
+--- !u!65 &4510472770148082512
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4510472770147598191}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.189009, z: 0.20418702}
+  m_Center: {x: -1.7973722, y: 0.5945035, z: -0.00003061816}
 --- !u!95 &4516181159098307534
 Animator:
   serializedVersion: 4
@@ -35756,6 +37174,7 @@ GameObject:
   - component: {fileID: 4516181159108901902}
   - component: {fileID: 4516181159107772110}
   - component: {fileID: 4516181159098307534}
+  - component: {fileID: 4516181159108901903}
   m_Layer: 0
   m_Name: fence_double (15)
   m_TagString: Untagged
@@ -35813,6 +37232,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4516181159105568782}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &4516181159108901903
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4516181159105568782}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973835, y: 0.5945045, z: -0.00000010058287}
 --- !u!1 &4546445637608717880
 GameObject:
   m_ObjectHideFlags: 0
@@ -35825,6 +37257,7 @@ GameObject:
   - component: {fileID: 4546445637611774520}
   - component: {fileID: 4546445637610643704}
   - component: {fileID: 4546445637618224632}
+  - component: {fileID: 4546445637618224633}
   m_Layer: 0
   m_Name: fence_double (33)
   m_TagString: Untagged
@@ -35917,6 +37350,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &4546445637618224633
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4546445637608717880}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7974327, y: 0.5945035, z: 0.000060934573}
 --- !u!4 &4606187989974065859
 Transform:
   m_ObjectHideFlags: 0
@@ -36042,6 +37488,7 @@ GameObject:
   - component: {fileID: 4697452767427094284}
   - component: {fileID: 4697452767428191692}
   - component: {fileID: 4697452767416436940}
+  - component: {fileID: 4697452767428191693}
   m_Layer: 0
   m_Name: fence_double (58)
   m_TagString: Untagged
@@ -36114,6 +37561,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &4697452767428191693
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4697452767425936140}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7974024, y: 0.5945035, z: 0.000060934573}
 --- !u!65 &4734232015733205556
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36224,6 +37684,7 @@ GameObject:
   - component: {fileID: 4735668623670348653}
   - component: {fileID: 4735668623669250477}
   - component: {fileID: 4735668623664161965}
+  - component: {fileID: 4735668623671449454}
   m_Layer: 0
   m_Name: fence_double (25)
   m_TagString: Untagged
@@ -36231,6 +37692,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &4735668623671449454
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4735668623671449453}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.00009165332}
 --- !u!95 &4739641698672952056
 Animator:
   serializedVersion: 4
@@ -36278,6 +37752,7 @@ GameObject:
   - component: {fileID: 4739641698683284792}
   - component: {fileID: 4739641698684252152}
   - component: {fileID: 4739641698672952056}
+  - component: {fileID: 4739641698684252153}
   m_Layer: 0
   m_Name: fence_double (50)
   m_TagString: Untagged
@@ -36335,6 +37810,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &4739641698684252153
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4739641698682319160}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.189009, z: 0.20418702}
+  m_Center: {x: -1.7973722, y: 0.5945035, z: -0.00006113574}
 --- !u!65 &4767288983674307152
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -36632,6 +38120,7 @@ GameObject:
   - component: {fileID: 4917769273242612428}
   - component: {fileID: 4917769273241612300}
   - component: {fileID: 4917769273232219404}
+  - component: {fileID: 4917769273242612429}
   m_Layer: 0
   m_Name: fence_double (49)
   m_TagString: Untagged
@@ -36689,6 +38178,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4917769273239613132}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &4917769273242612429
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4917769273239613132}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052582, y: 1.189009, z: 0.20418705}
+  m_Center: {x: -1.7973725, y: 0.5945035, z: 0.000030416995}
 --- !u!95 &4923447915308517181
 Animator:
   serializedVersion: 4
@@ -36721,6 +38223,7 @@ GameObject:
   - component: {fileID: 4923447915318913277}
   - component: {fileID: 4923447915317946941}
   - component: {fileID: 4923447915308517181}
+  - component: {fileID: 4923447915318913278}
   m_Layer: 0
   m_Name: fence_double (23)
   m_TagString: Untagged
@@ -36793,6 +38296,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4923447915315950845}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &4923447915318913278
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4923447915315950845}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052582, y: 1.189009, z: 0.20418705}
+  m_Center: {x: -1.7973343, y: 0.5945035, z: -0.00000010058288}
 --- !u!65 &4933360442907188550
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -38090,6 +39606,7 @@ GameObject:
   - component: {fileID: 4971065181665098937}
   - component: {fileID: 4971065181663968889}
   - component: {fileID: 4971065181671478137}
+  - component: {fileID: 4971065181671478138}
   m_Layer: 0
   m_Name: fence_double (37)
   m_TagString: Untagged
@@ -38167,6 +39684,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &4971065181671478138
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4971065181661962425}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7974021, y: 0.5945045, z: -0.00006113574}
 --- !u!4 &4979394386328395943
 Transform:
   m_ObjectHideFlags: 0
@@ -38249,6 +39779,7 @@ GameObject:
   - component: {fileID: 4992095879993621666}
   - component: {fileID: 4992095879992491618}
   - component: {fileID: 4992095879983223650}
+  - component: {fileID: 4992095879993621667}
   m_Layer: 0
   m_Name: fence_double (56)
   m_TagString: Untagged
@@ -38306,6 +39837,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4992095879990485154}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &4992095879993621667
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4992095879990485154}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605256, y: 1.189009, z: 0.20418692}
+  m_Center: {x: -1.7973714, y: 0.5945035, z: -0.00000010058281}
 --- !u!33 &4994615431294615712
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -38368,6 +39912,7 @@ GameObject:
   - component: {fileID: 4994615431294615712}
   - component: {fileID: 4994615431295746656}
   - component: {fileID: 4994615431305277280}
+  - component: {fileID: 4994615431305277281}
   m_Layer: 0
   m_Name: fence_double (44)
   m_TagString: Untagged
@@ -38410,6 +39955,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &4994615431305277281
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4994615431298014368}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7974026, y: 0.5945035, z: -0.00003061816}
 --- !u!64 &5011369413912916174
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -38505,6 +40063,7 @@ GameObject:
   - component: {fileID: 5015487091845608636}
   - component: {fileID: 5015487091846608508}
   - component: {fileID: 5015487091855924092}
+  - component: {fileID: 5015487091855924093}
   m_Layer: 0
   m_Name: fence_double (57)
   m_TagString: Untagged
@@ -38547,6 +40106,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &5015487091855924093
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5015487091848538300}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7974329, y: 0.5945035, z: -0.00000010058284}
 --- !u!1 &5038729912675893144
 GameObject:
   m_ObjectHideFlags: 0
@@ -38594,6 +40166,7 @@ GameObject:
   - component: {fileID: 5094734597353635957}
   - component: {fileID: 5094734597354767029}
   - component: {fileID: 5094734597360103349}
+  - component: {fileID: 5094734597360103350}
   m_Layer: 0
   m_Name: fence_double (9)
   m_TagString: Untagged
@@ -38686,6 +40259,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &5094734597360103350
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5094734597352840309}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973108, y: 0.5945035, z: 0.000030416995}
 --- !u!95 &5112156249828944067
 Animator:
   serializedVersion: 4
@@ -38718,6 +40304,7 @@ GameObject:
   - component: {fileID: 5112156249839519491}
   - component: {fileID: 5112156249838519747}
   - component: {fileID: 5112156249828944067}
+  - component: {fileID: 5112156249839519492}
   m_Layer: 0
   m_Name: fence_double (15)
   m_TagString: Untagged
@@ -38790,6 +40377,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5112156249836329731}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &5112156249839519492
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5112156249836329731}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945045, z: 0.000026602298}
 --- !u!1 &5122322002150833194
 GameObject:
   m_ObjectHideFlags: 0
@@ -39013,6 +40613,7 @@ GameObject:
   - component: {fileID: 5230673817220787542}
   - component: {fileID: 5230673817221787542}
   - component: {fileID: 5230673817227166358}
+  - component: {fileID: 5230673817227166359}
   m_Layer: 0
   m_Name: fence_double (32)
   m_TagString: Untagged
@@ -39105,6 +40706,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &5230673817227166359
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5230673817219789142}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945045, z: -0.00000010058287}
 --- !u!4 &5241664649691115499
 Transform:
   m_ObjectHideFlags: 0
@@ -39306,6 +40920,7 @@ GameObject:
   - component: {fileID: 5385719500116915103}
   - component: {fileID: 5385719500115915103}
   - component: {fileID: 5385719500127493215}
+  - component: {fileID: 5385719500127493216}
   m_Layer: 0
   m_Name: fence_double (31)
   m_TagString: Untagged
@@ -39333,6 +40948,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &5385719500127493216
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5385719500118110111}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945045, z: -0.000000100582845}
 --- !u!33 &5390600797133019642
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -39465,6 +41093,7 @@ GameObject:
   - component: {fileID: 5405364154499349086}
   - component: {fileID: 5405364154498381982}
   - component: {fileID: 5405364154493212062}
+  - component: {fileID: 5405364154500676223}
   m_Layer: 0
   m_Name: fence_double (29)
   m_TagString: Untagged
@@ -39487,6 +41116,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 124
   m_LocalEulerAnglesHint: {x: 0, y: 273.573, z: 0}
+--- !u!65 &5405364154500676223
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5405364154500638302}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7974024, y: 0.5945045, z: -0.00000010058287}
 --- !u!4 &5445939849877486765
 Transform:
   m_ObjectHideFlags: 0
@@ -39642,6 +41284,7 @@ GameObject:
   - component: {fileID: 5467502890868182682}
   - component: {fileID: 5467502890867215450}
   - component: {fileID: 5467502890861732186}
+  - component: {fileID: 5467502890869150363}
   m_Layer: 0
   m_Name: fence_double (46)
   m_TagString: Untagged
@@ -39649,6 +41292,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &5467502890869150363
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5467502890869150362}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7974026, y: 0.5945035, z: -0.00003061816}
 --- !u!95 &5470041433281845012
 Animator:
   serializedVersion: 4
@@ -39743,6 +41399,7 @@ GameObject:
   - component: {fileID: 5501781665630994255}
   - component: {fileID: 5501781665629896079}
   - component: {fileID: 5501781665620660367}
+  - component: {fileID: 5501781665630994256}
   m_Layer: 0
   m_Name: fence_double (33)
   m_TagString: Untagged
@@ -39815,6 +41472,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5501781665627956047}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &5501781665630994256
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5501781665627956047}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7973716, y: 0.5945035, z: -0.00000010058285}
 --- !u!1 &5514572668896055170
 GameObject:
   m_ObjectHideFlags: 0
@@ -39924,6 +41594,7 @@ GameObject:
   - component: {fileID: 5557338526058819841}
   - component: {fileID: 5557338526057853889}
   - component: {fileID: 5557338526069464769}
+  - component: {fileID: 5557338526069464770}
   m_Layer: 0
   m_Name: fence_double (53)
   m_TagString: Untagged
@@ -39951,6 +41622,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &5557338526069464770
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5557338526060113153}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.189009, z: 0.20418702}
+  m_Center: {x: -1.7974333, y: 0.5945035, z: -0.00006113574}
 --- !u!23 &5621770336256495156
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -40384,6 +42068,7 @@ GameObject:
   - component: {fileID: 6015662856973336256}
   - component: {fileID: 6015662856974466048}
   - component: {fileID: 6015662856979779840}
+  - component: {fileID: 6015662856979779841}
   m_Layer: 0
   m_Name: fence_double (54)
   m_TagString: Untagged
@@ -40476,6 +42161,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &6015662856979779841
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6015662856972526272}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945035, z: -0.00006113574}
 --- !u!4 &6059335575822678770
 Transform:
   m_ObjectHideFlags: 0
@@ -40594,6 +42292,7 @@ GameObject:
   - component: {fileID: 6142355362004351193}
   - component: {fileID: 6142355362003384857}
   - component: {fileID: 6142355362010797849}
+  - component: {fileID: 6142355362010797850}
   m_Layer: 0
   m_Name: fence_double (10)
   m_TagString: Untagged
@@ -40671,6 +42370,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &6142355362010797850
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6142355362001446105}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.00001726672}
 --- !u!1 &6194024979492098167
 GameObject:
   m_ObjectHideFlags: 0
@@ -43585,6 +45297,7 @@ GameObject:
   - component: {fileID: 6309624190269216944}
   - component: {fileID: 6309624190268086896}
   - component: {fileID: 6309624190275680112}
+  - component: {fileID: 6309624190275680113}
   m_Layer: 0
   m_Name: fence_double (20)
   m_TagString: Untagged
@@ -43662,6 +45375,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &6309624190275680113
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6309624190266148016}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973416, y: 0.5945045, z: -0.00000010058285}
 --- !u!23 &6314326106199981624
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -43739,6 +45465,7 @@ GameObject:
   - component: {fileID: 6314326106201079032}
   - component: {fileID: 6314326106199981624}
   - component: {fileID: 6314326106211455800}
+  - component: {fileID: 6314326106211455801}
   m_Layer: 0
   m_Name: fence_double (38)
   m_TagString: Untagged
@@ -43766,6 +45493,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &6314326106211455801
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6314326106201972984}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945035, z: -0.00000010058287}
 --- !u!95 &6315340653684063594
 Animator:
   serializedVersion: 4
@@ -43848,6 +45588,7 @@ GameObject:
   - component: {fileID: 6315340653690180266}
   - component: {fileID: 6315340653691146346}
   - component: {fileID: 6315340653684063594}
+  - component: {fileID: 6315340653693571723}
   m_Layer: 0
   m_Name: fence_double (35)
   m_TagString: Untagged
@@ -43870,6 +45611,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 91.545, z: 0}
+--- !u!65 &6315340653693571723
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6315340653693406890}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7974026, y: 0.5945045, z: -0.000000100582845}
 --- !u!95 &6362086132555974434
 Animator:
   serializedVersion: 4
@@ -43952,6 +45706,7 @@ GameObject:
   - component: {fileID: 6362086132562438370}
   - component: {fileID: 6362086132561472034}
   - component: {fileID: 6362086132555974434}
+  - component: {fileID: 6362086132563765443}
   m_Layer: 0
   m_Name: fence_double (3)
   m_TagString: Untagged
@@ -43974,6 +45729,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 98
   m_LocalEulerAnglesHint: {x: 0, y: 138.852, z: 0}
+--- !u!65 &6362086132563765443
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6362086132563408098}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052582, y: 1.189009, z: 0.20418705}
+  m_Center: {x: -1.7974335, y: 0.5945035, z: 0.0000227876}
 --- !u!1 &6379076436228465203
 GameObject:
   m_ObjectHideFlags: 0
@@ -44052,6 +45820,7 @@ GameObject:
   - component: {fileID: 6390908932157189986}
   - component: {fileID: 6390908932156091810}
   - component: {fileID: 6390908932167762082}
+  - component: {fileID: 6390908932167762083}
   m_Layer: 0
   m_Name: fence_double (21)
   m_TagString: Untagged
@@ -44094,6 +45863,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &6390908932167762083
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6390908932158288738}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7973888, y: 0.5945045, z: -0.00000010058284}
 --- !u!23 &6457053199470911071
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -44156,6 +45938,7 @@ GameObject:
   - component: {fileID: 6457053199471877279}
   - component: {fileID: 6457053199470911071}
   - component: {fileID: 6457053199482270559}
+  - component: {fileID: 6457053199482270560}
   m_Layer: 0
   m_Name: fence_double (23)
   m_TagString: Untagged
@@ -44198,6 +45981,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &6457053199482270560
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6457053199472902303}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7973716, y: 0.5945035, z: -0.00000010058285}
 --- !u!1 &6470301187821655678
 GameObject:
   m_ObjectHideFlags: 0
@@ -44337,6 +46133,7 @@ GameObject:
   - component: {fileID: 6574760330078801546}
   - component: {fileID: 6574760330079767626}
   - component: {fileID: 6574760330068484426}
+  - component: {fileID: 6574760330079767627}
   m_Layer: 0
   m_Name: fence_double (61)
   m_TagString: Untagged
@@ -44394,6 +46191,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6574760330079767627
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6574760330077835914}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7974331, y: 0.5945035, z: 0.000015158206}
 --- !u!4 &6588944899383100344
 Transform:
   m_ObjectHideFlags: 0
@@ -44421,6 +46231,7 @@ GameObject:
   - component: {fileID: 6588944899384427416}
   - component: {fileID: 6588944899385524568}
   - component: {fileID: 6588944899390631000}
+  - component: {fileID: 6588944899390631001}
   m_Layer: 0
   m_Name: fence_double (60)
   m_TagString: Untagged
@@ -44498,6 +46309,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &6588944899390631001
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6588944899383336856}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052592, y: 1.189009, z: 0.2041871}
+  m_Center: {x: -1.7973729, y: 0.5945035, z: -0.000000100582895}
 --- !u!1 &6592508105418594633
 GameObject:
   m_ObjectHideFlags: 0
@@ -44510,6 +46334,7 @@ GameObject:
   - component: {fileID: 6592508105419392329}
   - component: {fileID: 6592508105420523401}
   - component: {fileID: 6592508105425857161}
+  - component: {fileID: 6592508105425857162}
   m_Layer: 0
   m_Name: fence_double (40)
   m_TagString: Untagged
@@ -44602,6 +46427,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &6592508105425857162
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6592508105418594633}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945045, z: -0.00000010058287}
 --- !u!4 &6602373852583066976
 Transform:
   m_ObjectHideFlags: 0
@@ -46643,6 +48481,7 @@ GameObject:
   - component: {fileID: 6654279128423490906}
   - component: {fileID: 6654279128422492058}
   - component: {fileID: 6654279128412899994}
+  - component: {fileID: 6654279128423490907}
   m_Layer: 0
   m_Name: fence_double (27)
   m_TagString: Untagged
@@ -46715,6 +48554,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6654279128420301146}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &6654279128423490907
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6654279128420301146}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945045, z: -0.0001221709}
 --- !u!23 &6660638838448168085
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -46804,6 +48656,7 @@ GameObject:
   - component: {fileID: 6705107254085803510}
   - component: {fileID: 6705107254086770486}
   - component: {fileID: 6705107254075421238}
+  - component: {fileID: 6705107254086770487}
   m_Layer: 0
   m_Name: fence_double (11)
   m_TagString: Untagged
@@ -46861,6 +48714,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6705107254086770487
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6705107254084764150}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7974329, y: 0.5945035, z: -0.00003061816}
 --- !u!1 &6725136711383537710
 GameObject:
   m_ObjectHideFlags: 0
@@ -47082,6 +48948,7 @@ GameObject:
   - component: {fileID: 6849063236598111197}
   - component: {fileID: 6849063236597143837}
   - component: {fileID: 6849063236591727645}
+  - component: {fileID: 6849063236599138270}
   m_Layer: 0
   m_Name: fence_double (26)
   m_TagString: Untagged
@@ -47089,6 +48956,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &6849063236599138270
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6849063236599138269}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945045, z: -0.00000010058287}
 --- !u!4 &6874389766907456180
 Transform:
   m_ObjectHideFlags: 0
@@ -47116,6 +48996,7 @@ GameObject:
   - component: {fileID: 6874389766908750484}
   - component: {fileID: 6874389766909749332}
   - component: {fileID: 6874389766915196244}
+  - component: {fileID: 6874389766915196245}
   m_Layer: 0
   m_Name: fence_double (42)
   m_TagString: Untagged
@@ -47193,6 +49074,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &6874389766915196245
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6874389766907819668}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945035, z: -0.00000010058287}
 --- !u!4 &6898044942713169719
 Transform:
   m_ObjectHideFlags: 0
@@ -47251,6 +49145,7 @@ GameObject:
   - component: {fileID: 6911374748890936376}
   - component: {fileID: 6911374748889839352}
   - component: {fileID: 6911374748897057784}
+  - component: {fileID: 6911374748897057785}
   m_Layer: 0
   m_Name: fence_double (26)
   m_TagString: Untagged
@@ -47328,6 +49223,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &6911374748897057785
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6911374748887574584}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: 0.000030416995}
 --- !u!1 &6912738384793622978
 GameObject:
   m_ObjectHideFlags: 0
@@ -47563,6 +49471,7 @@ GameObject:
   - component: {fileID: 7028495270186915535}
   - component: {fileID: 7028495270187914255}
   - component: {fileID: 7028495270197573903}
+  - component: {fileID: 7028495270197573904}
   m_Layer: 0
   m_Name: fence_double (51)
   m_TagString: Untagged
@@ -47605,6 +49514,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &7028495270197573904
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7028495270190172879}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.189009, z: 0.20418702}
+  m_Center: {x: -1.7974333, y: 0.5945035, z: -0.00006113574}
 --- !u!95 &7054283390514760354
 Animator:
   serializedVersion: 4
@@ -48894,6 +50816,7 @@ GameObject:
   - component: {fileID: 7080442858982960298}
   - component: {fileID: 7080442858983927402}
   - component: {fileID: 7080442858989405034}
+  - component: {fileID: 7080442858989405035}
   m_Layer: 0
   m_Name: fence_double (52)
   m_TagString: Untagged
@@ -48986,6 +50909,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &7080442858989405035
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7080442858981994666}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7973106, y: 0.5945045, z: 0.000060934573}
 --- !u!33 &7108720135657760036
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -49092,6 +51028,7 @@ GameObject:
   - component: {fileID: 7147683825799710307}
   - component: {fileID: 7147683825798710435}
   - component: {fileID: 7147683825793526179}
+  - component: {fileID: 7147683825801004612}
   m_Layer: 0
   m_Name: fence_double (36)
   m_TagString: Untagged
@@ -49114,6 +51051,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 131
   m_LocalEulerAnglesHint: {x: 0, y: 250.017, z: 0}
+--- !u!65 &7147683825801004612
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7147683825800911459}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7973869, y: 0.5945035, z: 0.000060934573}
 --- !u!95 &7177847275145757280
 Animator:
   serializedVersion: 4
@@ -49146,6 +51096,7 @@ GameObject:
   - component: {fileID: 7177847275156352416}
   - component: {fileID: 7177847275155255136}
   - component: {fileID: 7177847275145757280}
+  - component: {fileID: 7177847275156352417}
   m_Layer: 0
   m_Name: fence_double (4)
   m_TagString: Untagged
@@ -49218,6 +51169,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7177847275153060256}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &7177847275156352417
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7177847275153060256}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.00000010058286}
 --- !u!4 &7185544909712702877
 Transform:
   m_ObjectHideFlags: 0
@@ -49245,6 +51209,7 @@ GameObject:
   - component: {fileID: 7185544909716127165}
   - component: {fileID: 7185544909715128189}
   - component: {fileID: 7185544909722243709}
+  - component: {fileID: 7185544909722243710}
   m_Layer: 0
   m_Name: fence_double (36)
   m_TagString: Untagged
@@ -49322,6 +51287,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &7185544909722243710
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7185544909712859581}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.59450257, z: 0.000030416995}
 --- !u!4 &7203448188098574695
 Transform:
   m_ObjectHideFlags: 0
@@ -49475,6 +51453,7 @@ GameObject:
   - component: {fileID: 7401631073151435310}
   - component: {fileID: 7401631073152401646}
   - component: {fileID: 7401631073140862446}
+  - component: {fileID: 7401631073152401647}
   m_Layer: 0
   m_Name: fence_double (18)
   m_TagString: Untagged
@@ -49532,6 +51511,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7401631073152401647
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7401631073150213678}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973263, y: 0.5945035, z: -0.000000100582874}
 --- !u!4 &7406870538920246488
 Transform:
   m_ObjectHideFlags: 0
@@ -51424,6 +53416,7 @@ GameObject:
   - component: {fileID: 7418303161713907083}
   - component: {fileID: 7418303161712777035}
   - component: {fileID: 7418303161724566091}
+  - component: {fileID: 7418303161724566092}
   m_Layer: 0
   m_Name: fence_double (43)
   m_TagString: Untagged
@@ -51451,6 +53444,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &7418303161724566092
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7418303161715034507}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973645, y: 0.5945045, z: -0.00006113574}
 --- !u!65 &7437701135446448563
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -51561,6 +53567,7 @@ GameObject:
   - component: {fileID: 7466087563369812484}
   - component: {fileID: 7466087563368845508}
   - component: {fileID: 7466087563363368388}
+  - component: {fileID: 7466087563370778117}
   m_Layer: 0
   m_Name: fence_double (19)
   m_TagString: Untagged
@@ -51568,6 +53575,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &7466087563370778117
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7466087563370778116}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973416, y: 0.5945035, z: -0.00006113574}
 --- !u!65 &7479501559729503528
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -51699,6 +53719,7 @@ GameObject:
   - component: {fileID: 7613982389934875666}
   - component: {fileID: 7613982389935843026}
   - component: {fileID: 7613982389941259218}
+  - component: {fileID: 7613982389941259219}
   m_Layer: 0
   m_Name: fence_double (17)
   m_TagString: Untagged
@@ -51776,6 +53797,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &7613982389941259219
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7613982389933848594}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973108, y: 0.5945045, z: 0.0000227876}
 --- !u!33 &7629235328908622590
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -51851,6 +53885,7 @@ GameObject:
   - component: {fileID: 7749470964768669496}
   - component: {fileID: 7749470964767538680}
   - component: {fileID: 7749470964775112952}
+  - component: {fileID: 7749470964775112953}
   m_Layer: 0
   m_Name: fence_double (21)
   m_TagString: Untagged
@@ -51928,6 +53963,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &7749470964775112953
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7749470964765598520}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973874, y: 0.5945045, z: -0.00000010058285}
 --- !u!4 &7777126587279715698
 Transform:
   m_ObjectHideFlags: 0
@@ -52004,6 +54052,7 @@ GameObject:
   - component: {fileID: 7801738677178648788}
   - component: {fileID: 7801738677179746836}
   - component: {fileID: 7801738677168269076}
+  - component: {fileID: 7801738677179746837}
   m_Layer: 0
   m_Name: fence_double
   m_TagString: Untagged
@@ -52233,6 +54282,19 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &7801738677179746837
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7801738677177750740}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945045, z: -0.00000010058287}
 --- !u!1 &7816170139183453799
 GameObject:
   m_ObjectHideFlags: 0
@@ -52245,6 +54307,7 @@ GameObject:
   - component: {fileID: 7816170139186383463}
   - component: {fileID: 7816170139185383591}
   - component: {fileID: 7816170139192845735}
+  - component: {fileID: 7816170139192845736}
   m_Layer: 0
   m_Name: fence_double (46)
   m_TagString: Untagged
@@ -52337,6 +54400,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &7816170139192845736
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7816170139183453799}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.000000100582874}
 --- !u!33 &7838254934655673359
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -52442,6 +54518,7 @@ GameObject:
   - component: {fileID: 7985144362982641398}
   - component: {fileID: 7985144362983640118}
   - component: {fileID: 7985144362976256310}
+  - component: {fileID: 7985144362986065623}
   m_Layer: 0
   m_Name: fence_double (29)
   m_TagString: Untagged
@@ -52464,6 +54541,19 @@ Transform:
   m_Father: {fileID: 7801738677177846004}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 90.666, z: 0}
+--- !u!65 &7985144362986065623
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7985144362985640694}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052587, y: 1.189009, z: 0.20418707}
+  m_Center: {x: -1.7974032, y: 0.5945035, z: -0.00003061816}
 --- !u!1 &7988961578250050410
 GameObject:
   m_ObjectHideFlags: 0
@@ -54710,6 +56800,7 @@ GameObject:
   - component: {fileID: 8147492743159701934}
   - component: {fileID: 8147492743158571886}
   - component: {fileID: 8147492743170084462}
+  - component: {fileID: 8147492743170084463}
   m_Layer: 0
   m_Name: fence_double (41)
   m_TagString: Untagged
@@ -54752,6 +56843,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &8147492743170084463
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8147492743160577454}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7973716, y: 0.5945035, z: -0.00000010058284}
 --- !u!95 &8148223740305988489
 Animator:
   serializedVersion: 4
@@ -54799,6 +56903,7 @@ GameObject:
   - component: {fileID: 8148223740316316745}
   - component: {fileID: 8148223740315186825}
   - component: {fileID: 8148223740305988489}
+  - component: {fileID: 8148223740316316746}
   m_Layer: 0
   m_Name: fence_double (8)
   m_TagString: Untagged
@@ -54856,6 +56961,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8148223740313249865}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &8148223740316316746
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8148223740313249865}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.605257, y: 1.189009, z: 0.20418698}
+  m_Center: {x: -1.7973719, y: 0.5945035, z: -0.00006113574}
 --- !u!1001 &8189069102237879762
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -56539,6 +58657,7 @@ GameObject:
   - component: {fileID: 8195242416249088121}
   - component: {fileID: 8195242416247990969}
   - component: {fileID: 8195242416238692281}
+  - component: {fileID: 8195242416249088122}
   m_Layer: 0
   m_Name: fence_double (18)
   m_TagString: Untagged
@@ -56596,6 +58715,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8195242416245994617}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &8195242416249088122
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8195242416245994617}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: -0.00003061816}
 --- !u!23 &8226392850587485108
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -56933,6 +59065,7 @@ GameObject:
   - component: {fileID: 8418442202438232942}
   - component: {fileID: 8418442202437233070}
   - component: {fileID: 8418442202444612782}
+  - component: {fileID: 8418442202444612783}
   m_Layer: 0
   m_Name: fence_double (9)
   m_TagString: Untagged
@@ -57010,6 +59143,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &8418442202444612783
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8418442202435237742}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.00000010058286}
 --- !u!4 &8428536967316760310
 Transform:
   m_ObjectHideFlags: 0
@@ -57122,6 +59268,7 @@ GameObject:
   - component: {fileID: 8461195927167064883}
   - component: {fileID: 8461195927168162291}
   - component: {fileID: 8461195927160681715}
+  - component: {fileID: 8461195927170156340}
   m_Layer: 0
   m_Name: fence_double (49)
   m_TagString: Untagged
@@ -57129,6 +59276,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &8461195927170156340
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8461195927170156339}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.189009, z: 0.20418702}
+  m_Center: {x: -1.7974638, y: 0.5945035, z: -0.00006113574}
 --- !u!4 &8466838980315459233
 Transform:
   m_ObjectHideFlags: 0
@@ -57188,6 +59348,7 @@ GameObject:
   - component: {fileID: 8493321704023404940}
   - component: {fileID: 8493321704024535884}
   - component: {fileID: 8493321704029593164}
+  - component: {fileID: 8493321704029593165}
   m_Layer: 0
   m_Name: fence_double (42)
   m_TagString: Untagged
@@ -57265,6 +59426,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &8493321704029593165
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8493321704022338956}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7974331, y: 0.5945035, z: -0.00003061816}
 --- !u!95 &8499127659648782313
 Animator:
   serializedVersion: 4
@@ -57297,6 +59471,7 @@ GameObject:
   - component: {fileID: 8499127659659436073}
   - component: {fileID: 8499127659658470121}
   - component: {fileID: 8499127659648782313}
+  - component: {fileID: 8499127659659436074}
   m_Layer: 0
   m_Name: fence_double (5)
   m_TagString: Untagged
@@ -57369,6 +59544,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8499127659656215593}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &8499127659659436074
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8499127659656215593}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973111, y: 0.5945035, z: -0.00001917407}
 --- !u!95 &8518489968334893639
 Animator:
   serializedVersion: 4
@@ -57416,6 +59604,7 @@ GameObject:
   - component: {fileID: 8518489968345537927}
   - component: {fileID: 8518489968344538951}
   - component: {fileID: 8518489968334893639}
+  - component: {fileID: 8518489968345537928}
   m_Layer: 0
   m_Name: fence_double (7)
   m_TagString: Untagged
@@ -57473,6 +59662,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8518489968342270343}
   m_Mesh: {fileID: 4300000, guid: 62fa28cbb204e4546a2ad5c1580ee188, type: 3}
+--- !u!65 &8518489968345537928
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8518489968342270343}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052577, y: 1.189009, z: 0.20418702}
+  m_Center: {x: -1.7973112, y: 0.5945035, z: 0.000030416995}
 --- !u!4 &8618397616412138147
 Transform:
   m_ObjectHideFlags: 0
@@ -57595,6 +59797,7 @@ GameObject:
   - component: {fileID: 8773292807812885367}
   - component: {fileID: 8773292807813884343}
   - component: {fileID: 8773292807819330743}
+  - component: {fileID: 8773292807819330744}
   m_Layer: 0
   m_Name: fence_double (13)
   m_TagString: Untagged
@@ -57672,6 +59875,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!65 &8773292807819330744
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8773292807811954551}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052566, y: 1.189009, z: 0.20418695}
+  m_Center: {x: -1.7974021, y: 0.5945035, z: -0.000000100582845}
 --- !u!4 &8774640642545142312
 Transform:
   m_ObjectHideFlags: 0
@@ -57966,6 +60182,7 @@ GameObject:
   - component: {fileID: 9075790713447217993}
   - component: {fileID: 9075790713448184201}
   - component: {fileID: 9075790713440818313}
+  - component: {fileID: 9075790713450178378}
   m_Layer: 0
   m_Name: fence_double (13)
   m_TagString: Untagged
@@ -57973,6 +60190,19 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!65 &9075790713450178378
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9075790713450178377}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
+  m_Center: {x: -1.7973721, y: 0.5945035, z: 0.0000037141144}
 --- !u!65 &9082340888994797676
 BoxCollider:
   m_ObjectHideFlags: 0

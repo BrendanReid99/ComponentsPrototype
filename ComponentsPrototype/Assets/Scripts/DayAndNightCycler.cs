@@ -32,7 +32,7 @@ public class DayAndNightCycler : MonoBehaviour
     void Start()
     {
         //set current time in game (360 minutes = 6am in game time i.e., 60 (00:00am) * 6 (hrs) = 360)
-        currentTime = 1200;
+        currentTime = 360;
 
 
         StartCoroutine("UpdateStars");
