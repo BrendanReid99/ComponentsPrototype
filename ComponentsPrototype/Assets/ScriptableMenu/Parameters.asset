@@ -15,4 +15,4 @@ MonoBehaviour:
   enableDayNightCycle: 1
   lengthOfDayInSeconds: 133.34
   timeOfDayRatio: 1
-  enableSnow: 1
+  enableSnow: 0
