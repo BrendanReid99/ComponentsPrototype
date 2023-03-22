@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enableDayNightCycle: 1
   lengthOfDayInSeconds: 133.34
-  timeOfDayRatio: 0.5
+  timeOfDayRatio: 1
   enableSnow: 1
