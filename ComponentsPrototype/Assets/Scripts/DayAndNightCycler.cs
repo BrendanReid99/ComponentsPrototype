@@ -18,12 +18,10 @@ public class DayAndNightCycler : MonoBehaviour
     public TextMeshProUGUI dayofWeek;
 
     public float currentTime;
-    //private string[] days_in_week = { "Mon", "Tues", "Wed", "Thurs", "Fri", "Sat", "Sun" };
+    private string[] days_in_week = {"Sun", "Mon", "Tues", "Wed", "Thurs", "Fri", "Sat"};
     public int currentDay;
     int time_counter;
     //int day_counter;
-
-
 
 
     private void Awake()
@@ -38,9 +36,9 @@ public class DayAndNightCycler : MonoBehaviour
 
         //traverse through the array to give each day an index number
         //day_counter = 0;
-        
+
         //for (int i = 0; i < days_in_week.Length; i++) {
-           //day_counter++;
+        //day_counter++;
         //}
     }
 
@@ -62,8 +60,7 @@ public class DayAndNightCycler : MonoBehaviour
         }
 
         float hours = Mathf.FloorToInt(currentTime / 60);
-        float minutes = Mathf.FloorToInt(currentTime % 60);
-        float day = Mathf.FloorToInt(currentDay); 
+        float minutes = Mathf.FloorToInt(currentTime % 60); 
 
         //resets clock to 00 hrs if greater than 24
         if (hours >= 24) {
@@ -73,7 +70,7 @@ public class DayAndNightCycler : MonoBehaviour
         }
 
         timeOfDay.text = string.Format("{0:00} Hrs: {1:00} Mins", hours,  minutes); //converts text into hours and minutes format
-        dayofWeek.text = string.Format("Day: {0},", day); //converts text into current day of week
+        dayofWeek.text = string.Format("Day: {0}, ", days_in_week[currentDay % 7]); //converts text into current day of week
 
     }
 
