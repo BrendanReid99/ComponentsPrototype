@@ -9,6 +9,7 @@ public class DayAndNightCycler : MonoBehaviour
 {
     public GameParameters gameParameters;
     public Transform starsTransform;
+    //Light torch;
 
     private float starsRefreshRate;
     private float rotationAngleStep;
@@ -21,7 +22,7 @@ public class DayAndNightCycler : MonoBehaviour
     private string[] days_in_week = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" };
     public int currentDay;
     int time_counter;
-    //int day_counter;
+    //private bool torchOn;
 
 
     private void Awake()
@@ -34,12 +35,6 @@ public class DayAndNightCycler : MonoBehaviour
         rotationAxis = starsTransform.right;
         rotationAngleStep = 360.0f * starsRefreshRate / gameParameters.lengthOfDayInSeconds;
 
-        //traverse through the array to give each day an index number
-        //day_counter = 0;
-
-        //for (int i = 0; i < days_in_week.Length; i++) {
-        //day_counter++;
-        //}
     }
 
     void Start()
@@ -47,6 +42,7 @@ public class DayAndNightCycler : MonoBehaviour
         //set current time in game (360 minutes = 6am in game time i.e., 60 (00:00am) * 6 (hrs) = 360)
         currentTime = 360;
         currentDay = 1;
+        
 
 
         StartCoroutine("UpdateStars");
@@ -68,6 +64,17 @@ public class DayAndNightCycler : MonoBehaviour
             currentTime = 0;
             currentDay++;
         }
+
+        /*if (hours > 8 && hours < 21) {
+            torchOn = false;
+        }
+
+        if (hours < 8 && hours >= 21) {
+            
+            
+            torchOn = true;
+        }
+        */
 
         timeOfDay.text = string.Format("{0:00}:{1:00}", hours,  minutes); //converts text into hours and minutes format
         dayofWeek.text = string.Format("{0}", days_in_week[currentDay % 7]); //converts text into current day of week

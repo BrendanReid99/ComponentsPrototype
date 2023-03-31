@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Snow
+  - CinemachineTarget
+  - torch_light
   layers:
   - Default
   - TransparentFX

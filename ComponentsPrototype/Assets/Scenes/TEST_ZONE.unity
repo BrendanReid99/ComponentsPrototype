@@ -134,6 +134,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -202,6 +206,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -487,6 +495,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -916,6 +928,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -984,6 +1000,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -1776,6 +1796,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -2466,6 +2490,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 35
@@ -2589,6 +2617,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -2933,6 +2965,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -3574,6 +3610,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 38
@@ -3643,6 +3683,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -3711,6 +3755,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -3814,6 +3862,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 60
@@ -3888,6 +3940,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 21
@@ -3957,6 +4013,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 53
@@ -4025,6 +4085,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -7003,6 +7067,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -7104,6 +7172,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -8557,6 +8629,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 49
@@ -8944,6 +9020,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -10225,6 +10305,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 58
@@ -10504,6 +10588,134 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
   m_Center: {x: -1.7973721, y: 0.5945035, z: -0.00000010058286}
+--- !u!1 &606526656
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 606526657}
+  - component: {fileID: 606526658}
+  m_Layer: 0
+  m_Name: blizzard_sound_fx
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &606526657
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 606526656}
+  m_LocalRotation: {x: 0.06625863, y: -0.013517704, z: 0.000744758, w: -0.99771065}
+  m_LocalPosition: {x: 28.871338, y: -9.771481, z: -33.38437}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1156548749}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &606526658
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 606526656}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: df56418b993b8fc40896087e6a041db6, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.05
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &610795099
 GameObject:
   m_ObjectHideFlags: 0
@@ -12090,6 +12302,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 29
@@ -12350,6 +12566,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -14282,6 +14502,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 47
@@ -15108,6 +15332,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 44
@@ -15393,6 +15621,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (48)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -15559,6 +15791,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -16880,6 +17116,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 42
@@ -18011,6 +18251,134 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &1003904490
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1003904491}
+  - component: {fileID: 1003904492}
+  m_Layer: 0
+  m_Name: people_chatting_fx
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1003904491
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1003904490}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.0000014081597, y: 2, z: -6.0000134}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6614323253068161970}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &1003904492
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1003904490}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: e9da0183343534549836ff450507e022, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 6.7330627
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!64 &1003976865
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19767,6 +20135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -19858,6 +20230,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -20095,6 +20471,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -21723,30 +22103,48 @@ ParticleSystem:
         m_RotationOrder: 4
     startSpeed:
       serializedVersion: 2
-      minMaxState: 0
-      scalar: 0
+      minMaxState: 1
+      scalar: 1
       minScalar: 5
       maxCurve:
         serializedVersion: 2
         m_Curve:
         - serializedVersion: 3
-          time: 0
+          time: 0.029899597
+          value: -1
+          inSlope: 2
+          outSlope: 2
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0
+          outWeight: 0
+        - serializedVersion: 3
+          time: 0.5201353
           value: 1
-          inSlope: 0
-          outSlope: 0
+          inSlope: 2.7049758
+          outSlope: 2.7049758
+          tangentMode: 0
+          weightedMode: 0
+          inWeight: 0.33333334
+          outWeight: 0.33333334
+        - serializedVersion: 3
+          time: 0.6938976
+          value: -0.18168336
+          inSlope: -6.909494
+          outSlope: -6.909494
           tangentMode: 0
           weightedMode: 0
           inWeight: 0.33333334
           outWeight: 0.33333334
         - serializedVersion: 3
           time: 1
-          value: 1
+          value: -1
           inSlope: 0
           outSlope: 0
           tangentMode: 0
           weightedMode: 0
-          inWeight: 0.33333334
-          outWeight: 0.33333334
+          inWeight: 0
+          outWeight: 0
         m_PreInfinity: 2
         m_PostInfinity: 2
         m_RotationOrder: 4
@@ -22547,8 +22945,8 @@ ParticleSystem:
           inWeight: 0
           outWeight: 0
         - serializedVersion: 3
-          time: 0.07984874
-          value: 0.9679215
+          time: 0.40875193
+          value: 0.97932744
           inSlope: 0.8091553
           outSlope: 0.8091553
           tangentMode: 0
@@ -22556,8 +22954,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.27341735
         - serializedVersion: 3
-          time: 0.6442278
-          value: 0.6332405
+          time: 0.7405733
+          value: 0.6978793
           inSlope: -1.3463178
           outSlope: -1.3463178
           tangentMode: 0
@@ -22565,8 +22963,8 @@ ParticleSystem:
           inWeight: 0.33333334
           outWeight: 0.36050797
         - serializedVersion: 3
-          time: 0.89750755
-          value: 0.19982706
+          time: 0.8609475
+          value: 0.46598613
           inSlope: -1.8430521
           outSlope: -1.8430521
           tangentMode: 0
@@ -26333,7 +26731,9 @@ Transform:
   m_LocalPosition: {x: 0, y: 11.84, z: 1.17}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1848288882}
+  - {fileID: 606526657}
   m_Father: {fileID: 6826973569184271053}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -26544,6 +26944,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (51)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -26729,6 +27133,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -26797,6 +27205,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -26924,6 +27336,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -26997,6 +27413,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -27164,6 +27584,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -27470,6 +27894,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -27646,6 +28074,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -28003,6 +28435,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -31283,6 +31719,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 61
@@ -31351,6 +31791,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -31539,6 +31983,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 30
@@ -31627,6 +32075,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -31846,6 +32298,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 55
@@ -31914,6 +32370,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -32092,6 +32552,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -32160,6 +32624,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -32530,6 +32998,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -33046,6 +33518,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 40
@@ -33155,6 +33631,52 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 3.6052575, y: 1.189009, z: 0.20418699}
   m_Center: {x: -1.7973111, y: 0.5945035, z: -0.000000100582874}
+--- !u!1 &1848288881
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1848288882}
+  - component: {fileID: 1848288883}
+  m_Layer: 0
+  m_Name: WindEffect
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1848288882
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1848288881}
+  m_LocalRotation: {x: 0, y: 0.953717, z: 0, w: 0.30070582}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1156548749}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 145, z: 0}
+--- !u!182 &1848288883
+WindZone:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1848288881}
+  m_Enabled: 1
+  m_Mode: 0
+  m_Radius: 20
+  m_WindMain: 1
+  m_WindTurbulence: 1
+  m_WindPulseMagnitude: 0.5
+  m_WindPulseFrequency: 0.01
 --- !u!4 &1855069087 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c33cde148d22637438dc894462957486, type: 3}
@@ -33418,6 +33940,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -34265,6 +34791,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 50
@@ -34555,6 +35085,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -34624,6 +35158,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (54)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -34692,6 +35230,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -36019,6 +36561,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 28
@@ -37319,6 +37865,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 33
@@ -37551,6 +38101,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 54
@@ -37718,6 +38272,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 41
@@ -37805,6 +38363,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 43
@@ -37873,6 +38435,10 @@ PrefabInstance:
     - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_Name
       value: torch (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
       objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
@@ -54891,6 +55457,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: torch
       objectReference: {fileID: 0}
+    - target: {fileID: 3603388208688774747, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
+      propertyPath: m_TagString
+      value: torch_light
+      objectReference: {fileID: 0}
     - target: {fileID: 3603388208688969471, guid: a9b1cd498c78e0f46a65c83c3ddf75af, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -69579,6 +70149,7 @@ Transform:
   - {fileID: 865081764}
   - {fileID: 299432479}
   - {fileID: 1686886230}
+  - {fileID: 1003904491}
   m_Father: {fileID: 1016967714}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 92.701, z: 0}
