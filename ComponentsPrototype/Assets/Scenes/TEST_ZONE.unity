@@ -644,7 +644,7 @@ GameObject:
   m_Component:
   - component: {fileID: 55263349}
   - component: {fileID: 55263350}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: WindEffect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6384,7 +6384,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 119
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 8400000, guid: c86b7050ea933714999477979af393ab, type: 2}
   m_TargetDisplay: 0
@@ -9989,7 +9989,7 @@ GameObject:
   - component: {fileID: 457740247}
   - component: {fileID: 457740246}
   - component: {fileID: 457740245}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SNOW_GLOBAL_PS
   m_TagString: Snow
   m_Icon: {fileID: 0}
@@ -43495,7 +43495,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1805905669}
   - component: {fileID: 1805905670}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: blizzard_sound_fx
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -61377,7 +61377,7 @@ Camera:
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 119
   m_RenderingPath: -1
   m_TargetTexture: {fileID: 0}
   m_TargetDisplay: 0
@@ -61509,8 +61509,8 @@ MonoBehaviour:
       colorBlindnessType: 0
       colorBlindnessStrength: 1
   m_Resources: {fileID: 11400000, guid: d82512f9c8e5d4a4d938b575d47f88d4, type: 2}
-  m_ShowToolkit: 0
-  m_ShowCustomSorter: 0
+  m_ShowToolkit: 1
+  m_ShowCustomSorter: 1
   breakBeforeColorGrading: 0
   m_BeforeTransparentBundles: []
   m_BeforeStackBundles: []
