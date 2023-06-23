@@ -1,8 +1,7 @@
 Everfire
 --------
-
 Developed by Brendan Reid and Greg Scobie
------------------------------------------
+
 
 Synopsis
 --------
